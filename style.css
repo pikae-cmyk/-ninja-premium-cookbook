@@ -66,6 +66,27 @@ main { width: min(1180px, calc(100% - 32px)); margin: -34px auto 80px; }
 .stats article { border-radius: 24px; padding: 22px; display: grid; gap: 4px; }
 .stats strong { font-size: 2rem; }
 .stats span, .muted { color: var(--muted); }
+
+.view-switch {
+  display: flex;
+  gap: 10px;
+  flex-wrap: wrap;
+  margin: 0 0 20px;
+}
+.view-btn {
+  border: 1px solid rgba(17,24,39,.14);
+  background: rgba(255,255,255,.78);
+  color: var(--accent);
+  border-radius: 999px;
+  padding: 12px 18px;
+  font-weight: 850;
+  cursor: pointer;
+  box-shadow: 0 8px 22px rgba(20, 18, 15, .08);
+}
+.view-btn.is-active {
+  background: var(--accent);
+  color: white;
+}
 .filters {
   border-radius: var(--radius);
   padding: 18px;
