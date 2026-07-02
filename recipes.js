@@ -1,5 +1,4 @@
 window.RECIPES = [
-[
   {
     "id": "r1",
     "title": "Extra knusprige Pommes",
