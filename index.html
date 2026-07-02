@@ -4,116 +4,57 @@
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>Ninja Premium Cookbook</title>
-  <meta name="description" content="Ninja Airfryer Premium Cookbook mit Rezepten, Favoriten, Filtern und Einkaufsliste." />
   <link rel="stylesheet" href="style.css" />
 </head>
 <body>
   <header class="hero">
-    <div class="hero__content">
+    <div class="hero__overlay"></div>
+    <div class="container hero__content">
       <p class="eyebrow">Ninja Foodi / Airfryer</p>
       <h1>Premium Cookbook</h1>
-      <p class="hero__text">Knusprige Familienrezepte, schnelle Ideen und mediterrane Klassiker – inklusive Favoriten und smarter Einkaufsliste.</p>
+      <p class="subtitle">Familienrezepte, schnelle Klassiker und mediterrane Ideen – mit Favoriten und smarter Einkaufsliste.</p>
       <div class="hero__actions">
         <a href="#recipes" class="btn btn--primary">Rezepte ansehen</a>
-        <button class="btn btn--ghost" id="openShoppingList">Einkaufsliste</button>
+        <a href="#shopping" class="btn btn--ghost">Einkaufsliste</a>
+        <button id="showFavoritesTop" class="btn btn--ghost" type="button">Favoriten</button>
       </div>
     </div>
   </header>
 
-  <main>
-    <section class="stats" aria-label="Übersicht">
-      <article><strong id="recipeCount">0</strong><span>Rezepte</span></article>
-      <article id="favoriteStat" class="stat-button" role="button" tabindex="0"><strong id="favoriteCount">0</strong><span>Favoriten</span></article>
-      <article><strong id="shoppingCount">0</strong><span>Zutaten in Liste</span></article>
+  <main class="container app">
+    <section class="stats" aria-label="Statistik">
+      <article class="stat"><strong id="recipeCount">0</strong><span>Rezepte</span></article>
+      <article class="stat"><strong id="favoriteCount">0</strong><span>Favoriten</span></article>
+      <article class="stat"><strong id="shoppingCount">0</strong><span>Zutaten in Liste</span></article>
     </section>
 
-    <section class="favorite-overview" id="favoriteOverview" aria-label="Favoriten Übersicht"></section>
-
-    <section class="view-switch" aria-label="Ansicht auswählen">
-      <button class="view-btn is-active" id="showAllRecipes" type="button">Alle Rezepte</button>
-      <button class="view-btn" id="showFavoriteRecipes" type="button">Favoriten anzeigen</button>
+    <section class="filters" id="recipes">
+      <label>Suche<input id="searchInput" type="search" placeholder="z. B. Pommes, Chicken, Pasta" /></label>
+      <label>Land / Küche<select id="countryFilter"></select></label>
+      <label>Art der Speise<select id="typeFilter"></select></label>
+      <label>Max. Zeit<select id="timeFilter"><option value="all">Alle</option><option value="20">bis 20 Min.</option><option value="30">bis 30 Min.</option><option value="45">bis 45 Min.</option></select></label>
+      <button id="resetFilters" class="btn btn--dark" type="button">Filter zurücksetzen</button>
     </section>
 
-    <section class="filters" aria-label="Filter">
-      <div class="filter-group">
-        <label for="searchInput">Suche</label>
-        <input id="searchInput" type="search" placeholder="z. B. Pommes, Chicken, Pasta" />
-      </div>
-      <div class="filter-group">
-        <label for="countryFilter">Land / Küche</label>
-        <select id="countryFilter"></select>
-      </div>
-      <div class="filter-group">
-        <label for="typeFilter">Art der Speise</label>
-        <select id="typeFilter"></select>
-      </div>
-      <div class="filter-group">
-        <label for="timeFilter">Max. Zeit</label>
-        <select id="timeFilter">
-          <option value="all">Alle</option>
-          <option value="20">bis 20 Min.</option>
-          <option value="30">bis 30 Min.</option>
-          <option value="45">bis 45 Min.</option>
-        </select>
-      </div>
-      <button class="btn btn--small" id="resetFilters">Filter zurücksetzen</button>
+    <section class="viewbar">
+      <button class="view-btn is-active" data-view="all" type="button">Alle Rezepte</button>
+      <button class="view-btn" data-view="favorites" type="button">Favoriten anzeigen</button>
+      <button class="view-btn" data-view="shopping" type="button">Einkaufsliste</button>
     </section>
 
-    <section id="recipes" class="recipe-grid" aria-live="polite"></section>
+    <section id="emptyState" class="empty" hidden></section>
+    <section id="recipeGrid" class="recipe-grid"></section>
+
+    <section id="shopping" class="shopping-panel">
+      <div class="section-head">
+        <div><p class="eyebrow">Planung</p><h2>Einkaufsliste</h2></div>
+        <button id="clearShopping" class="btn btn--ghost-dark" type="button">Liste leeren</button>
+      </div>
+      <div id="shoppingList" class="shopping-list"></div>
+    </section>
   </main>
 
-  <aside class="drawer" id="shoppingDrawer" aria-hidden="true">
-    <div class="drawer__panel">
-      <div class="drawer__header">
-        <div>
-          <p class="eyebrow">Smart geplant</p>
-          <h2>Einkaufsliste</h2>
-        </div>
-        <button class="icon-btn" id="closeShoppingList" aria-label="Einkaufsliste schließen">×</button>
-      </div>
-
-      <div class="portion-box">
-        <label for="globalPortions">Portionen für neue Rezeptauswahl</label>
-        <input id="globalPortions" type="number" min="1" max="12" value="4" />
-      </div>
-
-      <div id="selectedRecipes" class="selected-recipes"></div>
-      <div id="shoppingList" class="shopping-list"></div>
-      <div class="drawer__actions">
-        <button class="btn btn--ghost" id="copyShoppingList">Liste kopieren</button>
-        <button class="btn btn--danger" id="clearShoppingList">Liste leeren</button>
-      </div>
-    </div>
-  </aside>
-
-  <template id="recipeCardTemplate">
-    <article class="recipe-card">
-      <div class="recipe-card__top">
-        <div>
-          <p class="recipe-card__meta"></p>
-          <h2></h2>
-        </div>
-        <button class="favorite-btn" aria-label="Favorit umschalten">♡</button>
-      </div>
-      <p class="recipe-card__description"></p>
-      <div class="chips"></div>
-      <details>
-        <summary>Zubereitung & Zutaten anzeigen</summary>
-        <div class="recipe-detail"></div>
-      </details>
-      <div class="recipe-card__footer">
-        <label class="checkline">
-          <input type="checkbox" class="shopping-toggle" />
-          <span>Auf die Einkaufsliste setzen</span>
-        </label>
-        <label class="portion-inline">
-          Portionen
-          <input type="number" class="portion-input" min="1" max="12" value="4" />
-        </label>
-      </div>
-    </article>
-  </template>
-
+  <footer class="footer">Ninja Premium Cookbook · GitHub Pages Version</footer>
   <script src="recipes.js"></script>
   <script src="script.js"></script>
 </body>
