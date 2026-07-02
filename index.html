@@ -4,57 +4,69 @@
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>Ninja Premium Cookbook</title>
+  <meta name="description" content="Premium Ninja Foodi und Airfryer Cookbook mit Rezepten, Favoriten und smarter Einkaufsliste." />
   <link rel="stylesheet" href="style.css" />
 </head>
 <body>
   <header class="hero">
     <div class="hero__overlay"></div>
-    <div class="container hero__content">
+    <div class="container hero__inner">
       <p class="eyebrow">Ninja Foodi / Airfryer</p>
       <h1>Premium Cookbook</h1>
-      <p class="subtitle">Familienrezepte, schnelle Klassiker und mediterrane Ideen – mit Favoriten und smarter Einkaufsliste.</p>
+      <p class="hero__text">Knusprige Familienrezepte, schnelle Ideen und mediterrane Klassiker – inklusive Favoriten und smarter Einkaufsliste.</p>
       <div class="hero__actions">
-        <a href="#recipes" class="btn btn--primary">Rezepte ansehen</a>
-        <a href="#shopping" class="btn btn--ghost">Einkaufsliste</a>
-        <button id="showFavoritesTop" class="btn btn--ghost" type="button">Favoriten</button>
+        <a class="btn btn--gold" href="#recipes">Rezepte ansehen</a>
+        <a class="btn btn--ghost" href="#shopping">Einkaufsliste</a>
       </div>
     </div>
   </header>
 
-  <main class="container app">
+  <main class="container main">
     <section class="stats" aria-label="Statistik">
-      <article class="stat"><strong id="recipeCount">0</strong><span>Rezepte</span></article>
-      <article class="stat"><strong id="favoriteCount">0</strong><span>Favoriten</span></article>
-      <article class="stat"><strong id="shoppingCount">0</strong><span>Zutaten in Liste</span></article>
+      <div class="stat"><strong id="recipeCount">0</strong><span>Rezepte</span></div>
+      <button class="stat stat--button" id="showFavoritesBtn" type="button"><strong id="favoriteCount">0</strong><span>Favoriten anzeigen</span></button>
+      <button class="stat stat--button" id="showShoppingBtn" type="button"><strong id="shoppingCount">0</strong><span>Zutaten in Liste</span></button>
     </section>
 
-    <section class="filters" id="recipes">
+    <section class="filters" aria-label="Filter">
       <label>Suche<input id="searchInput" type="search" placeholder="z. B. Pommes, Chicken, Pasta" /></label>
-      <label>Land / Küche<select id="countryFilter"></select></label>
-      <label>Art der Speise<select id="typeFilter"></select></label>
-      <label>Max. Zeit<select id="timeFilter"><option value="all">Alle</option><option value="20">bis 20 Min.</option><option value="30">bis 30 Min.</option><option value="45">bis 45 Min.</option></select></label>
-      <button id="resetFilters" class="btn btn--dark" type="button">Filter zurücksetzen</button>
+      <label>Land / Küche<select id="countryFilter"><option value="">Alle Länder</option></select></label>
+      <label>Art der Speise<select id="typeFilter"><option value="">Alle Speisen</option></select></label>
+      <label>Max. Zeit<select id="timeFilter"><option value="">Alle</option><option value="20">bis 20 Min.</option><option value="30">bis 30 Min.</option><option value="45">bis 45 Min.</option><option value="60">bis 60 Min.</option></select></label>
+      <button id="resetBtn" class="btn btn--dark" type="button">Filter zurücksetzen</button>
     </section>
 
-    <section class="viewbar">
-      <button class="view-btn is-active" data-view="all" type="button">Alle Rezepte</button>
-      <button class="view-btn" data-view="favorites" type="button">Favoriten anzeigen</button>
-      <button class="view-btn" data-view="shopping" type="button">Einkaufsliste</button>
+    <nav class="tabs" aria-label="Ansichten">
+      <button class="tab is-active" id="allTab" type="button">Alle Rezepte</button>
+      <button class="tab" id="favoritesTab" type="button">Favoriten</button>
+      <button class="tab" id="shoppingTab" type="button">Einkaufsliste</button>
+    </nav>
+
+    <section id="recipes" class="section">
+      <div class="section__head">
+        <h2 id="viewTitle">Alle Rezepte</h2>
+        <p id="viewInfo">Wähle Rezepte aus, markiere Favoriten und erstelle deine Einkaufsliste.</p>
+      </div>
+      <div id="recipeGrid" class="recipe-grid"></div>
+      <div id="emptyState" class="empty" hidden>Keine passenden Rezepte gefunden.</div>
     </section>
 
-    <section id="emptyState" class="empty" hidden></section>
-    <section id="recipeGrid" class="recipe-grid"></section>
-
-    <section id="shopping" class="shopping-panel">
-      <div class="section-head">
-        <div><p class="eyebrow">Planung</p><h2>Einkaufsliste</h2></div>
-        <button id="clearShopping" class="btn btn--ghost-dark" type="button">Liste leeren</button>
+    <section id="shopping" class="section shopping-section" hidden>
+      <div class="section__head">
+        <h2>Einkaufsliste</h2>
+        <p>Die Mengen werden aus den ausgewählten Rezepten und Portionen berechnet.</p>
+      </div>
+      <div class="shopping-actions">
+        <button class="btn btn--dark" id="copyShoppingBtn" type="button">Liste kopieren</button>
+        <button class="btn btn--ghost-dark" id="clearShoppingBtn" type="button">Liste leeren</button>
       </div>
       <div id="shoppingList" class="shopping-list"></div>
     </section>
   </main>
 
-  <footer class="footer">Ninja Premium Cookbook · GitHub Pages Version</footer>
+  <footer class="footer">
+    <div class="container">Ninja Premium Cookbook · GitHub Pages ready</div>
+  </footer>
   <script src="recipes.js"></script>
   <script src="script.js"></script>
 </body>

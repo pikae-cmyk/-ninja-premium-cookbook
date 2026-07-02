@@ -1,8 +1,17 @@
 # Ninja Premium Cookbook
 
-Statische GitHub-Pages-App mit Rezeptliste, Filtern, Favoriten und Einkaufsliste.
+Statische GitHub-Pages-App mit 100 Rezepten, Favoriten, Filtern und Einkaufsliste.
 
-## Upload auf GitHub
-Alle Dateien aus diesem Ordner in dein Repository hochladen und alte Dateien überschreiben.
+## Upload bei GitHub
 
-Wichtig: Falls alte Dateien im Repository liegen, die nicht mehr benötigt werden, vorher löschen oder mit GitHub Desktop den ganzen Ordner ersetzen.
+Alle alten Dateien im Repository löschen oder überschreiben und diese Dateien hochladen:
+
+- index.html
+- style.css
+- script.js
+- recipes.js
+- assets/
+- data/
+- README.md
+
+Danach GitHub Pages aktivieren: Settings → Pages → Deploy from branch → main / root.
