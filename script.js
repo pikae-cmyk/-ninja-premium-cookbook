@@ -1,6 +1,7 @@
 const state = {
   favorites: new Set(JSON.parse(localStorage.getItem('ninjaFavorites') || '[]')),
-  shopping: JSON.parse(localStorage.getItem('ninjaShopping') || '{}')
+  shopping: JSON.parse(localStorage.getItem('ninjaShopping') || '{}'),
+  showFavoritesOnly: false
 };
 
 const els = {
@@ -21,7 +22,9 @@ const els = {
   selectedRecipes: document.getElementById('selectedRecipes'),
   shoppingList: document.getElementById('shoppingList'),
   copy: document.getElementById('copyShoppingList'),
-  clear: document.getElementById('clearShoppingList')
+  clear: document.getElementById('clearShoppingList'),
+  showAll: document.getElementById('showAllRecipes'),
+  showFavs: document.getElementById('showFavoriteRecipes')
 };
 
 function save() {
@@ -46,7 +49,8 @@ function filteredRecipes() {
     const matchCountry = els.country.value === 'all' || recipe.country === els.country.value;
     const matchType = els.type.value === 'all' || recipe.type === els.type.value;
     const matchTime = els.time.value === 'all' || recipe.time <= Number(els.time.value);
-    return matchQ && matchCountry && matchType && matchTime;
+    const matchFavorites = !state.showFavoritesOnly || state.favorites.has(recipe.id);
+    return matchQ && matchCountry && matchType && matchTime && matchFavorites;
   });
 }
 
@@ -64,7 +68,9 @@ function renderRecipes() {
   const recipes = filteredRecipes();
   els.grid.innerHTML = '';
   if (!recipes.length) {
-    els.grid.innerHTML = '<div class="empty">Keine Rezepte gefunden. Setze die Filter zurück oder suche nach etwas anderem.</div>';
+    els.grid.innerHTML = state.showFavoritesOnly
+      ? '<div class="empty">Du hast noch keine passenden Favoriten. Klicke bei einem Rezept auf das Herz oder setze die Filter zurück.</div>'
+      : '<div class="empty">Keine Rezepte gefunden. Setze die Filter zurück oder suche nach etwas anderem.</div>';
   }
 
   recipes.forEach(recipe => {
@@ -163,6 +169,23 @@ function copyShoppingList() {
   els.time.addEventListener(evt, renderRecipes);
 });
 
+function updateViewButtons() {
+  els.showAll.classList.toggle('is-active', !state.showFavoritesOnly);
+  els.showFavs.classList.toggle('is-active', state.showFavoritesOnly);
+}
+
+els.showAll.addEventListener('click', () => {
+  state.showFavoritesOnly = false;
+  updateViewButtons();
+  renderRecipes();
+});
+
+els.showFavs.addEventListener('click', () => {
+  state.showFavoritesOnly = true;
+  updateViewButtons();
+  renderRecipes();
+});
+
 els.reset.addEventListener('click', () => {
   els.search.value = '';
   els.country.value = 'all';
@@ -177,5 +200,6 @@ els.clear.addEventListener('click', () => { state.shopping = {}; save(); renderR
 els.copy.addEventListener('click', copyShoppingList);
 
 initFilters();
+updateViewButtons();
 renderRecipes();
 renderShopping();
