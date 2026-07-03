@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="Ninja Premium Cookbook">
+  <rect width="128" height="128" rx="30" fill="#111827"/>
+  <path d="M30 78c10 17 25 26 43 23 17-3 28-16 31-33-18 9-34 9-48 1-9-5-16-14-20-27-9 11-11 23-6 36Z" fill="#D7A14A"/>
+  <path d="M43 35c15-10 32-10 48 1-7 9-15 14-25 14-9 0-17-5-23-15Z" fill="#fff"/>
+  <circle cx="79" cy="75" r="7" fill="#fff"/>
+</svg>
