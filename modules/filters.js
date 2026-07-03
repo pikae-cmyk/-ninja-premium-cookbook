@@ -1,4 +1,4 @@
-import { normalizeText, uniqueSorted } from "./utils.js?v=25";
+import { normalizeText, uniqueSorted } from "./utils.js?v=26";
 
 export function getFilterOptions(recipes) {
   return {

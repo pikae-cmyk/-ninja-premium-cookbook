@@ -12105,5 +12105,2873 @@
       "Pulsierend anbrechen und dann zu einem glatten Sorbet mixen.",
       "Sofort servieren oder kurz in einer flachen Box nachfrieren."
     ]
+  },
+  {
+    "id": "it-cocktail-bitter-orange-spritz",
+    "title": "Bitter Orange Spritz (Italienisch)",
+    "country": "Italien",
+    "category": "Italienisch",
+    "type": "Cocktails",
+    "time": 6,
+    "difficulty": "Einfach",
+    "servings": 2,
+    "description": "",
+    "ingredients": [
+      {
+        "name": "Bitterorangen-Aperitif",
+        "amount": 90,
+        "unit": "ml"
+      },
+      {
+        "name": "Prosecco",
+        "amount": 180,
+        "unit": "ml"
+      },
+      {
+        "name": "Sodawasser",
+        "amount": 80,
+        "unit": "ml"
+      },
+      {
+        "name": "Orangensaft",
+        "amount": 40,
+        "unit": "ml"
+      },
+      {
+        "name": "Orange",
+        "amount": 1,
+        "unit": "Stk"
+      },
+      {
+        "name": "Eiswuerfel",
+        "amount": 180,
+        "unit": "g"
+      }
+    ],
+    "steps": [
+      "Orange heiß abwaschen, eine halbe Orange auspressen und den Rest in Scheiben schneiden.",
+      "Bitterorangen-Aperitif und Orangensaft in ein gekuehltes Glas geben und mit Eiswuerfeln auffuellen.",
+      "Prosecco und Sodawasser langsam angiessen, damit die Kohlensaeure erhalten bleibt.",
+      "Mit Orangenscheiben garnieren und nur einmal vorsichtig umruehren."
+    ],
+    "tip": "Kohlensaeurehaltige Zutaten immer erst nach dem Mixen sanft unterruehren, damit der Drink frisch bleibt.",
+    "nutrition": {
+      "kcal": "185 kcal",
+      "protein": "0 g",
+      "carbs": "16 g",
+      "fat": "0 g"
+    },
+    "tags": [
+      "Italienisch",
+      "Cocktails",
+      "Alkoholisch",
+      "Vegan",
+      "Glutenfrei"
+    ],
+    "image": "assets/images/recipes/cocktail-it-bitter-orange-spritz.png",
+    "fallbackImage": "assets/images/recipes/cocktail-it-bitter-orange-spritz.png",
+    "favorite": false,
+    "diet": {
+      "vegetarian": true,
+      "vegan": true,
+      "glutenFree": true,
+      "kids": false,
+      "mealPrep": false
+    },
+    "device": {
+      "name": "Ninja Detect Blender & Processor TB401EU Power Pro",
+      "program": "Manual Low / Stir nach dem Mixen",
+      "temperature": "kalt / ohne Erhitzen",
+      "time": "10-15 Sek.",
+      "accessory": "Detect Power Blender Krug, Klingenblock sicher verriegelt",
+      "steps": [
+        "Orangensaft und Bitterorangen-Aperitif fuer 10 Sekunden auf Low im kleinen Krug verbinden.",
+        "Die Mischung auf Eis in die Glaeser verteilen.",
+        "Prosecco und Sodawasser nicht in den Blender geben, sondern direkt im Glas langsam auffuellen.",
+        "Mit Orangenscheiben garnieren und sofort servieren."
+      ]
+    },
+    "preparationSteps": [
+      "Orange heiß abwaschen, eine halbe Orange auspressen und den Rest in Scheiben schneiden.",
+      "Bitterorangen-Aperitif und Orangensaft in ein gekuehltes Glas geben und mit Eiswuerfeln auffuellen.",
+      "Prosecco und Sodawasser langsam angiessen, damit die Kohlensaeure erhalten bleibt.",
+      "Mit Orangenscheiben garnieren und nur einmal vorsichtig umruehren."
+    ]
+  },
+  {
+    "id": "it-cocktail-lemon-mint-fizz",
+    "title": "Zitronen Minze Fizz alkoholfrei (Italienisch)",
+    "country": "Italien",
+    "category": "Italienisch",
+    "type": "Cocktails",
+    "time": 7,
+    "difficulty": "Einfach",
+    "servings": 2,
+    "description": "",
+    "ingredients": [
+      {
+        "name": "Zitronensaft",
+        "amount": 60,
+        "unit": "ml"
+      },
+      {
+        "name": "Zuckersirup",
+        "amount": 40,
+        "unit": "ml"
+      },
+      {
+        "name": "Minze",
+        "amount": 10,
+        "unit": "g"
+      },
+      {
+        "name": "Sodawasser",
+        "amount": 260,
+        "unit": "ml"
+      },
+      {
+        "name": "Zitrone",
+        "amount": 1,
+        "unit": "Stk"
+      },
+      {
+        "name": "Eiswuerfel",
+        "amount": 180,
+        "unit": "g"
+      }
+    ],
+    "steps": [
+      "Zitrone heiß abwaschen, auspressen und einige duenne Scheiben schneiden.",
+      "Minze leicht andruecken, damit die Aromen frei werden.",
+      "Zitronensaft, Zuckersirup und Minze kurz kalt mixen.",
+      "Auf Eis geben, mit Sodawasser auffuellen und mit Zitronenscheiben servieren."
+    ],
+    "tip": "Kohlensaeurehaltige Zutaten immer erst nach dem Mixen sanft unterruehren, damit der Drink frisch bleibt.",
+    "nutrition": {
+      "kcal": "95 kcal",
+      "protein": "0 g",
+      "carbs": "24 g",
+      "fat": "0 g"
+    },
+    "tags": [
+      "Italienisch",
+      "Cocktails",
+      "Alkoholfrei",
+      "Vegan",
+      "Glutenfrei",
+      "Kinder"
+    ],
+    "image": "assets/images/recipes/cocktail-it-lemon-mint-fizz.png",
+    "fallbackImage": "assets/images/recipes/cocktail-it-lemon-mint-fizz.png",
+    "favorite": false,
+    "diet": {
+      "vegetarian": true,
+      "vegan": true,
+      "glutenFree": true,
+      "kids": true,
+      "mealPrep": false
+    },
+    "device": {
+      "name": "Ninja Detect Blender & Processor TB401EU Power Pro",
+      "program": "Manual Pulse / Low",
+      "temperature": "kalt / ohne Erhitzen",
+      "time": "8-12 Sek.",
+      "accessory": "Detect Power Blender Krug, Klingenblock sicher verriegelt",
+      "steps": [
+        "Zitronensaft, Zuckersirup und Minzblaetter in den Detect Krug geben.",
+        "Nur kurz pulsen, damit die Minze duftet, aber nicht bitter wird.",
+        "Die Basis durch ein feines Sieb auf Eis in die Glaeser giessen.",
+        "Sodawasser direkt im Glas auffuellen und vorsichtig umruehren."
+      ]
+    },
+    "preparationSteps": [
+      "Zitrone heiß abwaschen, auspressen und einige duenne Scheiben schneiden.",
+      "Minze leicht andruecken, damit die Aromen frei werden.",
+      "Zitronensaft, Zuckersirup und Minze kurz kalt mixen.",
+      "Auf Eis geben, mit Sodawasser auffuellen und mit Zitronenscheiben servieren."
+    ]
+  },
+  {
+    "id": "it-cocktail-espresso-vanilla",
+    "title": "Espresso Vanille Cocktail (Italienisch)",
+    "country": "Italien",
+    "category": "Italienisch",
+    "type": "Cocktails",
+    "time": 8,
+    "difficulty": "Mittel",
+    "servings": 2,
+    "description": "",
+    "ingredients": [
+      {
+        "name": "kalter Espresso",
+        "amount": 100,
+        "unit": "ml"
+      },
+      {
+        "name": "Wodka",
+        "amount": 80,
+        "unit": "ml"
+      },
+      {
+        "name": "Kaffeelikoer",
+        "amount": 50,
+        "unit": "ml"
+      },
+      {
+        "name": "Vanillesirup",
+        "amount": 25,
+        "unit": "ml"
+      },
+      {
+        "name": "Eiswuerfel",
+        "amount": 180,
+        "unit": "g"
+      },
+      {
+        "name": "Kaffeebohnen",
+        "amount": 6,
+        "unit": "Stk"
+      }
+    ],
+    "steps": [
+      "Espresso frisch bruehen und vollstaendig abkuehlen lassen.",
+      "Espresso, Wodka, Kaffeelikoer, Vanillesirup und Eiswuerfel in den Krug geben.",
+      "Kurz kraeftig mixen, bis eine feine Schaumkrone entsteht.",
+      "In gekuehlte Cocktailschalen abseihen und mit Kaffeebohnen garnieren."
+    ],
+    "tip": "Espresso muss kalt sein, sonst schmilzt das Eis zu schnell und der Drink wird waessrig.",
+    "nutrition": {
+      "kcal": "215 kcal",
+      "protein": "0 g",
+      "carbs": "18 g",
+      "fat": "0 g"
+    },
+    "tags": [
+      "Italienisch",
+      "Cocktails",
+      "Alkoholisch",
+      "Vegan",
+      "Glutenfrei"
+    ],
+    "image": "assets/images/recipes/cocktail-it-espresso-vanilla.png",
+    "fallbackImage": "assets/images/recipes/cocktail-it-espresso-vanilla.png",
+    "favorite": false,
+    "diet": {
+      "vegetarian": true,
+      "vegan": true,
+      "glutenFree": true,
+      "kids": false,
+      "mealPrep": false
+    },
+    "device": {
+      "name": "Ninja Detect Blender & Processor TB401EU Power Pro",
+      "program": "Manual High",
+      "temperature": "kalt / ohne Erhitzen",
+      "time": "12-18 Sek.",
+      "accessory": "Detect Power Blender Krug, Klingenblock sicher verriegelt",
+      "steps": [
+        "Kalten Espresso, Wodka, Kaffeelikoer und Vanillesirup zuerst in den Krug geben.",
+        "Eiswuerfel zuletzt dazugeben und den Deckel sicher verriegeln.",
+        "Auf High 12-18 Sekunden mixen, bis der Cocktail sichtbar schaeumt.",
+        "Sofort in gekuehlte Glaeser abseihen, damit die Schaumkrone bleibt."
+      ]
+    },
+    "preparationSteps": [
+      "Espresso frisch bruehen und vollstaendig abkuehlen lassen.",
+      "Espresso, Wodka, Kaffeelikoer, Vanillesirup und Eiswuerfel in den Krug geben.",
+      "Kurz kraeftig mixen, bis eine feine Schaumkrone entsteht.",
+      "In gekuehlte Cocktailschalen abseihen und mit Kaffeebohnen garnieren."
+    ]
+  },
+  {
+    "id": "it-cocktail-basil-peach-mocktail",
+    "title": "Pfirsich Basilikum Mocktail (Italienisch)",
+    "country": "Italien",
+    "category": "Italienisch",
+    "type": "Cocktails",
+    "time": 7,
+    "difficulty": "Einfach",
+    "servings": 2,
+    "description": "",
+    "ingredients": [
+      {
+        "name": "reife Pfirsiche",
+        "amount": 240,
+        "unit": "g"
+      },
+      {
+        "name": "Basilikum",
+        "amount": 8,
+        "unit": "g"
+      },
+      {
+        "name": "Zitronensaft",
+        "amount": 30,
+        "unit": "ml"
+      },
+      {
+        "name": "Honig",
+        "amount": 20,
+        "unit": "g"
+      },
+      {
+        "name": "Mineralwasser",
+        "amount": 220,
+        "unit": "ml"
+      },
+      {
+        "name": "Eiswuerfel",
+        "amount": 160,
+        "unit": "g"
+      }
+    ],
+    "steps": [
+      "Pfirsiche entsteinen und in Stuecke schneiden; Basilikum trocken tupfen.",
+      "Pfirsich, Zitronensaft und Honig fein mixen.",
+      "Die Pfirsichbasis auf Eis in Glaeser verteilen.",
+      "Mit Mineralwasser auffuellen und Basilikum als Garnitur dazugeben."
+    ],
+    "tip": "Kohlensaeurehaltige Zutaten immer erst nach dem Mixen sanft unterruehren, damit der Drink frisch bleibt.",
+    "nutrition": {
+      "kcal": "130 kcal",
+      "protein": "2 g",
+      "carbs": "31 g",
+      "fat": "0 g"
+    },
+    "tags": [
+      "Italienisch",
+      "Cocktails",
+      "Alkoholfrei",
+      "Vegetarisch",
+      "Glutenfrei",
+      "Kinder"
+    ],
+    "image": "assets/images/recipes/cocktail-it-basil-peach-mocktail.png",
+    "fallbackImage": "assets/images/recipes/cocktail-it-basil-peach-mocktail.png",
+    "favorite": false,
+    "diet": {
+      "vegetarian": true,
+      "vegan": false,
+      "glutenFree": true,
+      "kids": true,
+      "mealPrep": false
+    },
+    "device": {
+      "name": "Ninja Detect Blender & Processor TB401EU Power Pro",
+      "program": "BlendSense / Smoothie",
+      "temperature": "kalt / ohne Erhitzen",
+      "time": "20-30 Sek.",
+      "accessory": "Detect Power Blender Krug, Klingenblock sicher verriegelt",
+      "steps": [
+        "Pfirsichstuecke, Zitronensaft, Honig und Basilikum in den Detect Krug geben.",
+        "BlendSense starten, bis eine glatte Fruchtbasis entsteht.",
+        "Die Basis auf Eis verteilen.",
+        "Mineralwasser ausserhalb des Blenders angiessen und nur im Glas umruehren."
+      ]
+    },
+    "preparationSteps": [
+      "Pfirsiche entsteinen und in Stuecke schneiden; Basilikum trocken tupfen.",
+      "Pfirsich, Zitronensaft und Honig fein mixen.",
+      "Die Pfirsichbasis auf Eis in Glaeser verteilen.",
+      "Mit Mineralwasser auffuellen und Basilikum als Garnitur dazugeben."
+    ]
+  },
+  {
+    "id": "es-cocktail-red-sangria",
+    "title": "Rote Sangria mit Fruechten (Spanisch)",
+    "country": "Spanien",
+    "category": "Spanisch",
+    "type": "Cocktails",
+    "time": 12,
+    "difficulty": "Einfach",
+    "servings": 4,
+    "description": "",
+    "ingredients": [
+      {
+        "name": "Rotwein",
+        "amount": 500,
+        "unit": "ml"
+      },
+      {
+        "name": "Orangensaft",
+        "amount": 180,
+        "unit": "ml"
+      },
+      {
+        "name": "Zitronensaft",
+        "amount": 30,
+        "unit": "ml"
+      },
+      {
+        "name": "Apfel",
+        "amount": 1,
+        "unit": "Stk"
+      },
+      {
+        "name": "Orange",
+        "amount": 1,
+        "unit": "Stk"
+      },
+      {
+        "name": "Erdbeeren",
+        "amount": 160,
+        "unit": "g"
+      },
+      {
+        "name": "Zuckersirup",
+        "amount": 40,
+        "unit": "ml"
+      },
+      {
+        "name": "Eiswuerfel",
+        "amount": 220,
+        "unit": "g"
+      }
+    ],
+    "steps": [
+      "Apfel, Orange und Erdbeeren waschen und in mundgerechte Stuecke schneiden.",
+      "Orangensaft, Zitronensaft und Zuckersirup verruehren.",
+      "Fruechte mit Rotwein und Saftbasis in einer Karaffe mischen.",
+      "Mindestens 20 Minuten kalt ziehen lassen und auf Eis servieren."
+    ],
+    "tip": "Je laenger die Fruechte ziehen, desto runder wird die Sangria.",
+    "nutrition": {
+      "kcal": "165 kcal",
+      "protein": "1 g",
+      "carbs": "23 g",
+      "fat": "0 g"
+    },
+    "tags": [
+      "Spanisch",
+      "Cocktails",
+      "Alkoholisch",
+      "Vegan",
+      "Glutenfrei"
+    ],
+    "image": "assets/images/recipes/cocktail-es-red-sangria.png",
+    "fallbackImage": "assets/images/recipes/cocktail-es-red-sangria.png",
+    "favorite": false,
+    "diet": {
+      "vegetarian": true,
+      "vegan": true,
+      "glutenFree": true,
+      "kids": false,
+      "mealPrep": true
+    },
+    "device": {
+      "name": "Ninja Detect Blender & Processor TB401EU Power Pro",
+      "program": "Manual Low",
+      "temperature": "kalt / ohne Erhitzen",
+      "time": "8-10 Sek.",
+      "accessory": "Detect Power Blender Krug, Klingenblock sicher verriegelt",
+      "steps": [
+        "Orangensaft, Zitronensaft und Zuckersirup im Detect Krug kurz auf Low verbinden.",
+        "Rotwein und geschnittene Fruechte nicht mixen, sondern in einer Karaffe zusammenfuehren.",
+        "Die gemixte Saftbasis zur Karaffe geben und kalt ziehen lassen.",
+        "Erst beim Servieren Eiswuerfel in die Glaeser geben."
+      ]
+    },
+    "preparationSteps": [
+      "Apfel, Orange und Erdbeeren waschen und in mundgerechte Stuecke schneiden.",
+      "Orangensaft, Zitronensaft und Zuckersirup verruehren.",
+      "Fruechte mit Rotwein und Saftbasis in einer Karaffe mischen.",
+      "Mindestens 20 Minuten kalt ziehen lassen und auf Eis servieren."
+    ]
+  },
+  {
+    "id": "es-cocktail-watermelon-lime-mocktail",
+    "title": "Wassermelonen Limetten Mocktail (Spanisch)",
+    "country": "Spanien",
+    "category": "Spanisch",
+    "type": "Cocktails",
+    "time": 7,
+    "difficulty": "Einfach",
+    "servings": 2,
+    "description": "",
+    "ingredients": [
+      {
+        "name": "Wassermelone ohne Schale",
+        "amount": 420,
+        "unit": "g"
+      },
+      {
+        "name": "Limettensaft",
+        "amount": 35,
+        "unit": "ml"
+      },
+      {
+        "name": "Agavendicksaft",
+        "amount": 25,
+        "unit": "g"
+      },
+      {
+        "name": "Minze",
+        "amount": 6,
+        "unit": "g"
+      },
+      {
+        "name": "Sodawasser",
+        "amount": 180,
+        "unit": "ml"
+      },
+      {
+        "name": "Eiswuerfel",
+        "amount": 160,
+        "unit": "g"
+      }
+    ],
+    "steps": [
+      "Wassermelone wuerfeln und sichtbare Kerne entfernen.",
+      "Wassermelone, Limettensaft, Agavendicksaft und Minze fein mixen.",
+      "Die Fruchtbasis auf Eis in Glaeser verteilen.",
+      "Mit Sodawasser auffuellen und sofort servieren."
+    ],
+    "tip": "Kohlensaeurehaltige Zutaten immer erst nach dem Mixen sanft unterruehren, damit der Drink frisch bleibt.",
+    "nutrition": {
+      "kcal": "125 kcal",
+      "protein": "1 g",
+      "carbs": "30 g",
+      "fat": "0 g"
+    },
+    "tags": [
+      "Spanisch",
+      "Cocktails",
+      "Alkoholfrei",
+      "Vegan",
+      "Glutenfrei",
+      "Kinder"
+    ],
+    "image": "assets/images/recipes/cocktail-es-watermelon-lime-mocktail.png",
+    "fallbackImage": "assets/images/recipes/cocktail-es-watermelon-lime-mocktail.png",
+    "favorite": false,
+    "diet": {
+      "vegetarian": true,
+      "vegan": true,
+      "glutenFree": true,
+      "kids": true,
+      "mealPrep": false
+    },
+    "device": {
+      "name": "Ninja Detect Blender & Processor TB401EU Power Pro",
+      "program": "BlendSense / Crush",
+      "temperature": "kalt / ohne Erhitzen",
+      "time": "25-35 Sek.",
+      "accessory": "Detect Power Blender Krug, Klingenblock sicher verriegelt",
+      "steps": [
+        "Wassermelone, Limettensaft, Agavendicksaft und Minze in den Krug geben.",
+        "BlendSense / Crush starten, bis die Wassermelone fein und kalt ist.",
+        "In Glaeser mit Eis giessen.",
+        "Sodawasser im Glas ergaenzen, nicht im Krug mixen."
+      ]
+    },
+    "preparationSteps": [
+      "Wassermelone wuerfeln und sichtbare Kerne entfernen.",
+      "Wassermelone, Limettensaft, Agavendicksaft und Minze fein mixen.",
+      "Die Fruchtbasis auf Eis in Glaeser verteilen.",
+      "Mit Sodawasser auffuellen und sofort servieren."
+    ]
+  },
+  {
+    "id": "es-cocktail-cucumber-vermouth-spritz",
+    "title": "Gurken Vermouth Spritz (Spanisch)",
+    "country": "Spanien",
+    "category": "Spanisch",
+    "type": "Cocktails",
+    "time": 6,
+    "difficulty": "Einfach",
+    "servings": 2,
+    "description": "",
+    "ingredients": [
+      {
+        "name": "weisser Vermouth",
+        "amount": 120,
+        "unit": "ml"
+      },
+      {
+        "name": "Gurke",
+        "amount": 120,
+        "unit": "g"
+      },
+      {
+        "name": "Limettensaft",
+        "amount": 25,
+        "unit": "ml"
+      },
+      {
+        "name": "Zuckersirup",
+        "amount": 20,
+        "unit": "ml"
+      },
+      {
+        "name": "Tonic Water",
+        "amount": 180,
+        "unit": "ml"
+      },
+      {
+        "name": "Eiswuerfel",
+        "amount": 180,
+        "unit": "g"
+      }
+    ],
+    "steps": [
+      "Gurke waschen und in duenne Scheiben schneiden; ein paar Scheiben fuer die Garnitur behalten.",
+      "Gurke, Limettensaft und Zuckersirup kurz mixen und abseihen.",
+      "Gurkenbasis mit Vermouth auf Eis in Glaeser geben.",
+      "Mit Tonic Water auffuellen und mit Gurkenscheiben servieren."
+    ],
+    "tip": "Kohlensaeurehaltige Zutaten immer erst nach dem Mixen sanft unterruehren, damit der Drink frisch bleibt.",
+    "nutrition": {
+      "kcal": "160 kcal",
+      "protein": "0 g",
+      "carbs": "17 g",
+      "fat": "0 g"
+    },
+    "tags": [
+      "Spanisch",
+      "Cocktails",
+      "Alkoholisch",
+      "Vegan",
+      "Glutenfrei"
+    ],
+    "image": "assets/images/recipes/cocktail-es-cucumber-vermouth-spritz.png",
+    "fallbackImage": "assets/images/recipes/cocktail-es-cucumber-vermouth-spritz.png",
+    "favorite": false,
+    "diet": {
+      "vegetarian": true,
+      "vegan": true,
+      "glutenFree": true,
+      "kids": false,
+      "mealPrep": false
+    },
+    "device": {
+      "name": "Ninja Detect Blender & Processor TB401EU Power Pro",
+      "program": "Manual Pulse",
+      "temperature": "kalt / ohne Erhitzen",
+      "time": "8-12 Sek.",
+      "accessory": "Detect Power Blender Krug, Klingenblock sicher verriegelt",
+      "steps": [
+        "Gurke, Limettensaft und Zuckersirup nur kurz pulsen.",
+        "Die Gurkenbasis durch ein Sieb geben, damit der Drink klar bleibt.",
+        "Vermouth direkt im Glas mit der Gurkenbasis auf Eis mischen.",
+        "Tonic Water langsam angiessen und nicht mixen."
+      ]
+    },
+    "preparationSteps": [
+      "Gurke waschen und in duenne Scheiben schneiden; ein paar Scheiben fuer die Garnitur behalten.",
+      "Gurke, Limettensaft und Zuckersirup kurz mixen und abseihen.",
+      "Gurkenbasis mit Vermouth auf Eis in Glaeser geben.",
+      "Mit Tonic Water auffuellen und mit Gurkenscheiben servieren."
+    ]
+  },
+  {
+    "id": "es-cocktail-berry-rosemary-mocktail",
+    "title": "Beeren Rosmarin Mocktail (Spanisch)",
+    "country": "Spanien",
+    "category": "Spanisch",
+    "type": "Cocktails",
+    "time": 8,
+    "difficulty": "Einfach",
+    "servings": 2,
+    "description": "",
+    "ingredients": [
+      {
+        "name": "gemischte Beeren",
+        "amount": 240,
+        "unit": "g"
+      },
+      {
+        "name": "Rosmarin",
+        "amount": 2,
+        "unit": "g"
+      },
+      {
+        "name": "Zitronensaft",
+        "amount": 30,
+        "unit": "ml"
+      },
+      {
+        "name": "Honig",
+        "amount": 25,
+        "unit": "g"
+      },
+      {
+        "name": "Mineralwasser",
+        "amount": 220,
+        "unit": "ml"
+      },
+      {
+        "name": "Eiswuerfel",
+        "amount": 180,
+        "unit": "g"
+      }
+    ],
+    "steps": [
+      "Beeren verlesen und Rosmarinnadeln sehr fein abzupfen.",
+      "Beeren, Zitronensaft, Honig und wenig Rosmarin mixen.",
+      "Die Beerenbasis durch ein Sieb streichen, wenn sie feiner sein soll.",
+      "Auf Eis geben, mit Mineralwasser auffuellen und mit Rosmarin garnieren."
+    ],
+    "tip": "Rosmarin vorsichtig dosieren, damit er die Beeren nicht ueberdeckt.",
+    "nutrition": {
+      "kcal": "145 kcal",
+      "protein": "2 g",
+      "carbs": "33 g",
+      "fat": "1 g"
+    },
+    "tags": [
+      "Spanisch",
+      "Cocktails",
+      "Alkoholfrei",
+      "Vegetarisch",
+      "Glutenfrei",
+      "Kinder"
+    ],
+    "image": "assets/images/recipes/cocktail-es-berry-rosemary-mocktail.png",
+    "fallbackImage": "assets/images/recipes/cocktail-es-berry-rosemary-mocktail.png",
+    "favorite": false,
+    "diet": {
+      "vegetarian": true,
+      "vegan": false,
+      "glutenFree": true,
+      "kids": true,
+      "mealPrep": false
+    },
+    "device": {
+      "name": "Ninja Detect Blender & Processor TB401EU Power Pro",
+      "program": "BlendSense / Smoothie",
+      "temperature": "kalt / ohne Erhitzen",
+      "time": "20-30 Sek.",
+      "accessory": "Detect Power Blender Krug, Klingenblock sicher verriegelt",
+      "steps": [
+        "Beeren, Zitronensaft, Honig und Rosmarin in den Detect Krug geben.",
+        "BlendSense kurz laufen lassen, bis die Beeren fein sind.",
+        "Die Basis auf Eis verteilen.",
+        "Mineralwasser im Glas auffuellen, damit die Kohlensaeure bleibt."
+      ]
+    },
+    "preparationSteps": [
+      "Beeren verlesen und Rosmarinnadeln sehr fein abzupfen.",
+      "Beeren, Zitronensaft, Honig und wenig Rosmarin mixen.",
+      "Die Beerenbasis durch ein Sieb streichen, wenn sie feiner sein soll.",
+      "Auf Eis geben, mit Mineralwasser auffuellen und mit Rosmarin garnieren."
+    ]
+  },
+  {
+    "id": "us-cocktail-bourbon-peach-sour",
+    "title": "Bourbon Pfirsich Sour (Amerikanisch)",
+    "country": "USA",
+    "category": "Amerikanisch",
+    "type": "Cocktails",
+    "time": 9,
+    "difficulty": "Mittel",
+    "servings": 2,
+    "description": "",
+    "ingredients": [
+      {
+        "name": "Bourbon",
+        "amount": 100,
+        "unit": "ml"
+      },
+      {
+        "name": "Pfirsich",
+        "amount": 220,
+        "unit": "g"
+      },
+      {
+        "name": "Zitronensaft",
+        "amount": 40,
+        "unit": "ml"
+      },
+      {
+        "name": "Ahornsirup",
+        "amount": 25,
+        "unit": "ml"
+      },
+      {
+        "name": "Eiweiss",
+        "amount": 1,
+        "unit": "Stk"
+      },
+      {
+        "name": "Eiswuerfel",
+        "amount": 180,
+        "unit": "g"
+      }
+    ],
+    "steps": [
+      "Pfirsich entsteinen und in Stuecke schneiden.",
+      "Pfirsich, Zitronensaft und Ahornsirup fein mixen.",
+      "Bourbon und Eiweiss zur Pfirsichbasis geben und kurz ohne Eis aufschlagen.",
+      "Mit Eis erneut mixen und in kurze Glaeser abseihen."
+    ],
+    "tip": "Eiweiss sorgt fuer Schaum; fuer eine vegane Variante 25 ml Aquafaba verwenden.",
+    "nutrition": {
+      "kcal": "235 kcal",
+      "protein": "3 g",
+      "carbs": "22 g",
+      "fat": "0 g"
+    },
+    "tags": [
+      "Amerikanisch",
+      "Cocktails",
+      "Alkoholisch",
+      "Glutenfrei"
+    ],
+    "image": "assets/images/recipes/cocktail-us-bourbon-peach-sour.png",
+    "fallbackImage": "assets/images/recipes/cocktail-us-bourbon-peach-sour.png",
+    "favorite": false,
+    "diet": {
+      "vegetarian": true,
+      "vegan": false,
+      "glutenFree": true,
+      "kids": false,
+      "mealPrep": false
+    },
+    "device": {
+      "name": "Ninja Detect Blender & Processor TB401EU Power Pro",
+      "program": "Manual Low / High",
+      "temperature": "kalt / ohne Erhitzen",
+      "time": "25-35 Sek.",
+      "accessory": "Detect Power Blender Krug, Klingenblock sicher verriegelt",
+      "steps": [
+        "Pfirsich, Zitronensaft und Ahornsirup zuerst glatt mixen.",
+        "Bourbon und Eiweiss zugeben und 10 Sekunden auf Low aufschlagen.",
+        "Eiswuerfel ergaenzen und 12-15 Sekunden auf High mixen.",
+        "Durch ein Sieb in Glaeser geben und sofort servieren."
+      ]
+    },
+    "preparationSteps": [
+      "Pfirsich entsteinen und in Stuecke schneiden.",
+      "Pfirsich, Zitronensaft und Ahornsirup fein mixen.",
+      "Bourbon und Eiweiss zur Pfirsichbasis geben und kurz ohne Eis aufschlagen.",
+      "Mit Eis erneut mixen und in kurze Glaeser abseihen."
+    ]
+  },
+  {
+    "id": "us-cocktail-cranberry-ginger-mocktail",
+    "title": "Cranberry Ginger Mocktail (Amerikanisch)",
+    "country": "USA",
+    "category": "Amerikanisch",
+    "type": "Cocktails",
+    "time": 6,
+    "difficulty": "Einfach",
+    "servings": 2,
+    "description": "",
+    "ingredients": [
+      {
+        "name": "Cranberrysaft",
+        "amount": 220,
+        "unit": "ml"
+      },
+      {
+        "name": "Limettensaft",
+        "amount": 25,
+        "unit": "ml"
+      },
+      {
+        "name": "Ingwer",
+        "amount": 8,
+        "unit": "g"
+      },
+      {
+        "name": "Ahornsirup",
+        "amount": 20,
+        "unit": "ml"
+      },
+      {
+        "name": "Ginger Ale alkoholfrei",
+        "amount": 220,
+        "unit": "ml"
+      },
+      {
+        "name": "Eiswuerfel",
+        "amount": 180,
+        "unit": "g"
+      }
+    ],
+    "steps": [
+      "Ingwer duenn schaelen und fein schneiden.",
+      "Cranberrysaft, Limettensaft, Ingwer und Ahornsirup kurz mixen.",
+      "Die Basis auf Eis in Glaeser geben.",
+      "Mit Ginger Ale auffuellen und mit Limette servieren."
+    ],
+    "tip": "Kohlensaeurehaltige Zutaten immer erst nach dem Mixen sanft unterruehren, damit der Drink frisch bleibt.",
+    "nutrition": {
+      "kcal": "140 kcal",
+      "protein": "0 g",
+      "carbs": "34 g",
+      "fat": "0 g"
+    },
+    "tags": [
+      "Amerikanisch",
+      "Cocktails",
+      "Alkoholfrei",
+      "Vegan",
+      "Glutenfrei",
+      "Kinder"
+    ],
+    "image": "assets/images/recipes/cocktail-us-cranberry-ginger-mocktail.png",
+    "fallbackImage": "assets/images/recipes/cocktail-us-cranberry-ginger-mocktail.png",
+    "favorite": false,
+    "diet": {
+      "vegetarian": true,
+      "vegan": true,
+      "glutenFree": true,
+      "kids": true,
+      "mealPrep": false
+    },
+    "device": {
+      "name": "Ninja Detect Blender & Processor TB401EU Power Pro",
+      "program": "Manual Pulse",
+      "temperature": "kalt / ohne Erhitzen",
+      "time": "8-12 Sek.",
+      "accessory": "Detect Power Blender Krug, Klingenblock sicher verriegelt",
+      "steps": [
+        "Cranberrysaft, Limettensaft, Ingwer und Ahornsirup in den Krug geben.",
+        "Kurz pulsen, bis der Ingwer fein verteilt ist.",
+        "Durch ein Sieb auf Eis giessen.",
+        "Ginger Ale erst im Glas angiessen."
+      ]
+    },
+    "preparationSteps": [
+      "Ingwer duenn schaelen und fein schneiden.",
+      "Cranberrysaft, Limettensaft, Ingwer und Ahornsirup kurz mixen.",
+      "Die Basis auf Eis in Glaeser geben.",
+      "Mit Ginger Ale auffuellen und mit Limette servieren."
+    ]
+  },
+  {
+    "id": "us-cocktail-lime-margarita",
+    "title": "Limetten Margarita Style (Amerikanisch)",
+    "country": "USA",
+    "category": "Amerikanisch",
+    "type": "Cocktails",
+    "time": 6,
+    "difficulty": "Einfach",
+    "servings": 2,
+    "description": "",
+    "ingredients": [
+      {
+        "name": "Tequila",
+        "amount": 100,
+        "unit": "ml"
+      },
+      {
+        "name": "Limettensaft",
+        "amount": 60,
+        "unit": "ml"
+      },
+      {
+        "name": "Orangenlikoer",
+        "amount": 40,
+        "unit": "ml"
+      },
+      {
+        "name": "Agavendicksaft",
+        "amount": 20,
+        "unit": "g"
+      },
+      {
+        "name": "Salz",
+        "amount": 4,
+        "unit": "g"
+      },
+      {
+        "name": "Eiswuerfel",
+        "amount": 200,
+        "unit": "g"
+      }
+    ],
+    "steps": [
+      "Glasraender mit Limette befeuchten und in Salz tauchen.",
+      "Tequila, Limettensaft, Orangenlikoer, Agavendicksaft und Eis in den Krug geben.",
+      "Kurz kraeftig mixen, bis der Drink eiskalt ist.",
+      "In die vorbereiteten Glaeser abseihen."
+    ],
+    "tip": "Fuer einen klareren Drink nur kurz mixen und direkt abseihen.",
+    "nutrition": {
+      "kcal": "245 kcal",
+      "protein": "0 g",
+      "carbs": "17 g",
+      "fat": "0 g"
+    },
+    "tags": [
+      "Amerikanisch",
+      "Cocktails",
+      "Alkoholisch",
+      "Vegan",
+      "Glutenfrei"
+    ],
+    "image": "assets/images/recipes/cocktail-us-lime-margarita.png",
+    "fallbackImage": "assets/images/recipes/cocktail-us-lime-margarita.png",
+    "favorite": false,
+    "diet": {
+      "vegetarian": true,
+      "vegan": true,
+      "glutenFree": true,
+      "kids": false,
+      "mealPrep": false
+    },
+    "device": {
+      "name": "Ninja Detect Blender & Processor TB401EU Power Pro",
+      "program": "Manual Crush / High",
+      "temperature": "kalt / ohne Erhitzen",
+      "time": "12-18 Sek.",
+      "accessory": "Detect Power Blender Krug, Klingenblock sicher verriegelt",
+      "steps": [
+        "Tequila, Limettensaft, Orangenlikoer und Agavendicksaft zuerst in den Krug geben.",
+        "Eiswuerfel zuletzt einfuellen und den Deckel verriegeln.",
+        "12-18 Sekunden auf High oder Crush mixen.",
+        "In Glaeser mit Salzrand abseihen."
+      ]
+    },
+    "preparationSteps": [
+      "Glasraender mit Limette befeuchten und in Salz tauchen.",
+      "Tequila, Limettensaft, Orangenlikoer, Agavendicksaft und Eis in den Krug geben.",
+      "Kurz kraeftig mixen, bis der Drink eiskalt ist.",
+      "In die vorbereiteten Glaeser abseihen."
+    ]
+  },
+  {
+    "id": "us-cocktail-pineapple-mint-mocktail",
+    "title": "Ananas Minze Mocktail (Amerikanisch)",
+    "country": "USA",
+    "category": "Amerikanisch",
+    "type": "Cocktails",
+    "time": 7,
+    "difficulty": "Einfach",
+    "servings": 2,
+    "description": "",
+    "ingredients": [
+      {
+        "name": "Ananas",
+        "amount": 300,
+        "unit": "g"
+      },
+      {
+        "name": "Limettensaft",
+        "amount": 25,
+        "unit": "ml"
+      },
+      {
+        "name": "Minze",
+        "amount": 8,
+        "unit": "g"
+      },
+      {
+        "name": "Kokoswasser",
+        "amount": 160,
+        "unit": "ml"
+      },
+      {
+        "name": "Sodawasser",
+        "amount": 160,
+        "unit": "ml"
+      },
+      {
+        "name": "Eiswuerfel",
+        "amount": 160,
+        "unit": "g"
+      }
+    ],
+    "steps": [
+      "Ananas schaelen, Strunk entfernen und Fruchtfleisch wuerfeln.",
+      "Ananas, Limettensaft, Minze und Kokoswasser fein mixen.",
+      "Auf Eis in Glaeser geben.",
+      "Mit Sodawasser auffuellen und kalt servieren."
+    ],
+    "tip": "Kohlensaeurehaltige Zutaten immer erst nach dem Mixen sanft unterruehren, damit der Drink frisch bleibt.",
+    "nutrition": {
+      "kcal": "155 kcal",
+      "protein": "2 g",
+      "carbs": "35 g",
+      "fat": "0 g"
+    },
+    "tags": [
+      "Amerikanisch",
+      "Cocktails",
+      "Alkoholfrei",
+      "Vegan",
+      "Glutenfrei",
+      "Kinder"
+    ],
+    "image": "assets/images/recipes/cocktail-us-pineapple-mint-mocktail.png",
+    "fallbackImage": "assets/images/recipes/cocktail-us-pineapple-mint-mocktail.png",
+    "favorite": false,
+    "diet": {
+      "vegetarian": true,
+      "vegan": true,
+      "glutenFree": true,
+      "kids": true,
+      "mealPrep": false
+    },
+    "device": {
+      "name": "Ninja Detect Blender & Processor TB401EU Power Pro",
+      "program": "BlendSense / Smoothie",
+      "temperature": "kalt / ohne Erhitzen",
+      "time": "25-35 Sek.",
+      "accessory": "Detect Power Blender Krug, Klingenblock sicher verriegelt",
+      "steps": [
+        "Ananas, Limettensaft, Minze und Kokoswasser in den Detect Krug geben.",
+        "BlendSense starten, bis die Ananas glatt ist.",
+        "Die Fruchtbasis auf Eis verteilen.",
+        "Sodawasser ausserhalb des Blenders angiessen."
+      ]
+    },
+    "preparationSteps": [
+      "Ananas schaelen, Strunk entfernen und Fruchtfleisch wuerfeln.",
+      "Ananas, Limettensaft, Minze und Kokoswasser fein mixen.",
+      "Auf Eis in Glaeser geben.",
+      "Mit Sodawasser auffuellen und kalt servieren."
+    ]
+  },
+  {
+    "id": "de-cocktail-apple-elderflower-spritz",
+    "title": "Apfel Holunder Spritz (Deutsch)",
+    "country": "Deutschland",
+    "category": "Deutsch",
+    "type": "Cocktails",
+    "time": 6,
+    "difficulty": "Einfach",
+    "servings": 2,
+    "description": "",
+    "ingredients": [
+      {
+        "name": "Apfelsaft naturtrueb",
+        "amount": 160,
+        "unit": "ml"
+      },
+      {
+        "name": "Holunderbluetensirup",
+        "amount": 40,
+        "unit": "ml"
+      },
+      {
+        "name": "Riesling Sekt",
+        "amount": 220,
+        "unit": "ml"
+      },
+      {
+        "name": "Zitronensaft",
+        "amount": 20,
+        "unit": "ml"
+      },
+      {
+        "name": "Apfel",
+        "amount": 1,
+        "unit": "Stk"
+      },
+      {
+        "name": "Eiswuerfel",
+        "amount": 180,
+        "unit": "g"
+      }
+    ],
+    "steps": [
+      "Apfel waschen und in duenne Scheiben schneiden.",
+      "Apfelsaft, Holunderbluetensirup und Zitronensaft verruehren.",
+      "Die Basis auf Eis geben und mit Riesling Sekt auffuellen.",
+      "Mit Apfelscheiben garnieren und sofort servieren."
+    ],
+    "tip": "Kohlensaeurehaltige Zutaten immer erst nach dem Mixen sanft unterruehren, damit der Drink frisch bleibt.",
+    "nutrition": {
+      "kcal": "175 kcal",
+      "protein": "0 g",
+      "carbs": "24 g",
+      "fat": "0 g"
+    },
+    "tags": [
+      "Deutsch",
+      "Cocktails",
+      "Alkoholisch",
+      "Vegan",
+      "Glutenfrei"
+    ],
+    "image": "assets/images/recipes/cocktail-de-apple-elderflower-spritz.png",
+    "fallbackImage": "assets/images/recipes/cocktail-de-apple-elderflower-spritz.png",
+    "favorite": false,
+    "diet": {
+      "vegetarian": true,
+      "vegan": true,
+      "glutenFree": true,
+      "kids": false,
+      "mealPrep": false
+    },
+    "device": {
+      "name": "Ninja Detect Blender & Processor TB401EU Power Pro",
+      "program": "Manual Low",
+      "temperature": "kalt / ohne Erhitzen",
+      "time": "8-10 Sek.",
+      "accessory": "Detect Power Blender Krug, Klingenblock sicher verriegelt",
+      "steps": [
+        "Apfelsaft, Holunderbluetensirup und Zitronensaft kurz auf Low verbinden.",
+        "Die Basis auf Eis in Glaeser geben.",
+        "Riesling Sekt nicht mixen, sondern direkt im Glas auffuellen.",
+        "Apfelscheiben einlegen und sofort servieren."
+      ]
+    },
+    "preparationSteps": [
+      "Apfel waschen und in duenne Scheiben schneiden.",
+      "Apfelsaft, Holunderbluetensirup und Zitronensaft verruehren.",
+      "Die Basis auf Eis geben und mit Riesling Sekt auffuellen.",
+      "Mit Apfelscheiben garnieren und sofort servieren."
+    ]
+  },
+  {
+    "id": "de-cocktail-cherry-lime-mocktail",
+    "title": "Kirsch Limetten Mocktail (Deutsch)",
+    "country": "Deutschland",
+    "category": "Deutsch",
+    "type": "Cocktails",
+    "time": 7,
+    "difficulty": "Einfach",
+    "servings": 2,
+    "description": "",
+    "ingredients": [
+      {
+        "name": "Sauerkirschsaft",
+        "amount": 240,
+        "unit": "ml"
+      },
+      {
+        "name": "Limettensaft",
+        "amount": 30,
+        "unit": "ml"
+      },
+      {
+        "name": "Honig",
+        "amount": 20,
+        "unit": "g"
+      },
+      {
+        "name": "Kirschen entsteint",
+        "amount": 120,
+        "unit": "g"
+      },
+      {
+        "name": "Mineralwasser",
+        "amount": 180,
+        "unit": "ml"
+      },
+      {
+        "name": "Eiswuerfel",
+        "amount": 160,
+        "unit": "g"
+      }
+    ],
+    "steps": [
+      "Kirschen entsteinen oder abgetropfte Kirschen verwenden.",
+      "Kirschsaft, Limettensaft, Honig und Kirschen kurz mixen.",
+      "Die Basis auf Eis in Glaeser fuellen.",
+      "Mit Mineralwasser auffuellen und mit Limette servieren."
+    ],
+    "tip": "Kohlensaeurehaltige Zutaten immer erst nach dem Mixen sanft unterruehren, damit der Drink frisch bleibt.",
+    "nutrition": {
+      "kcal": "150 kcal",
+      "protein": "1 g",
+      "carbs": "36 g",
+      "fat": "0 g"
+    },
+    "tags": [
+      "Deutsch",
+      "Cocktails",
+      "Alkoholfrei",
+      "Vegetarisch",
+      "Glutenfrei",
+      "Kinder"
+    ],
+    "image": "assets/images/recipes/cocktail-de-cherry-lime-mocktail.png",
+    "fallbackImage": "assets/images/recipes/cocktail-de-cherry-lime-mocktail.png",
+    "favorite": false,
+    "diet": {
+      "vegetarian": true,
+      "vegan": false,
+      "glutenFree": true,
+      "kids": true,
+      "mealPrep": false
+    },
+    "device": {
+      "name": "Ninja Detect Blender & Processor TB401EU Power Pro",
+      "program": "BlendSense / Smoothie",
+      "temperature": "kalt / ohne Erhitzen",
+      "time": "20-30 Sek.",
+      "accessory": "Detect Power Blender Krug, Klingenblock sicher verriegelt",
+      "steps": [
+        "Sauerkirschsaft, Limettensaft, Honig und Kirschen in den Detect Krug geben.",
+        "BlendSense starten, bis die Kirschen fein sind.",
+        "Auf Eis verteilen.",
+        "Mineralwasser erst im Glas auffuellen."
+      ]
+    },
+    "preparationSteps": [
+      "Kirschen entsteinen oder abgetropfte Kirschen verwenden.",
+      "Kirschsaft, Limettensaft, Honig und Kirschen kurz mixen.",
+      "Die Basis auf Eis in Glaeser fuellen.",
+      "Mit Mineralwasser auffuellen und mit Limette servieren."
+    ]
+  },
+  {
+    "id": "de-cocktail-cucumber-herb-fizz",
+    "title": "Gurken Kraeuter Fizz (Deutsch)",
+    "country": "Deutschland",
+    "category": "Deutsch",
+    "type": "Cocktails",
+    "time": 7,
+    "difficulty": "Einfach",
+    "servings": 2,
+    "description": "",
+    "ingredients": [
+      {
+        "name": "Gin",
+        "amount": 90,
+        "unit": "ml"
+      },
+      {
+        "name": "Gurke",
+        "amount": 160,
+        "unit": "g"
+      },
+      {
+        "name": "Zitronensaft",
+        "amount": 35,
+        "unit": "ml"
+      },
+      {
+        "name": "Kraeuterhonig",
+        "amount": 20,
+        "unit": "g"
+      },
+      {
+        "name": "Mineralwasser",
+        "amount": 180,
+        "unit": "ml"
+      },
+      {
+        "name": "Eiswuerfel",
+        "amount": 180,
+        "unit": "g"
+      }
+    ],
+    "steps": [
+      "Gurke waschen und grob schneiden.",
+      "Gurke, Zitronensaft und Kraeuterhonig kurz mixen und abseihen.",
+      "Gurkenbasis mit Gin auf Eis geben.",
+      "Mit Mineralwasser auffuellen und mit Gurkenscheiben servieren."
+    ],
+    "tip": "Kohlensaeurehaltige Zutaten immer erst nach dem Mixen sanft unterruehren, damit der Drink frisch bleibt.",
+    "nutrition": {
+      "kcal": "170 kcal",
+      "protein": "1 g",
+      "carbs": "12 g",
+      "fat": "0 g"
+    },
+    "tags": [
+      "Deutsch",
+      "Cocktails",
+      "Alkoholisch",
+      "Vegetarisch",
+      "Glutenfrei"
+    ],
+    "image": "assets/images/recipes/cocktail-de-cucumber-herb-fizz.png",
+    "fallbackImage": "assets/images/recipes/cocktail-de-cucumber-herb-fizz.png",
+    "favorite": false,
+    "diet": {
+      "vegetarian": true,
+      "vegan": false,
+      "glutenFree": true,
+      "kids": false,
+      "mealPrep": false
+    },
+    "device": {
+      "name": "Ninja Detect Blender & Processor TB401EU Power Pro",
+      "program": "Manual Pulse",
+      "temperature": "kalt / ohne Erhitzen",
+      "time": "8-12 Sek.",
+      "accessory": "Detect Power Blender Krug, Klingenblock sicher verriegelt",
+      "steps": [
+        "Gurke, Zitronensaft und Kraeuterhonig im Krug kurz pulsen.",
+        "Die Gurkenbasis durch ein Sieb in Glaeser mit Eis geben.",
+        "Gin direkt im Glas einruehren.",
+        "Mineralwasser langsam angiessen, damit der Fizz frisch bleibt."
+      ]
+    },
+    "preparationSteps": [
+      "Gurke waschen und grob schneiden.",
+      "Gurke, Zitronensaft und Kraeuterhonig kurz mixen und abseihen.",
+      "Gurkenbasis mit Gin auf Eis geben.",
+      "Mit Mineralwasser auffuellen und mit Gurkenscheiben servieren."
+    ]
+  },
+  {
+    "id": "de-cocktail-berry-malt-mocktail",
+    "title": "Beeren Malz Mocktail (Deutsch)",
+    "country": "Deutschland",
+    "category": "Deutsch",
+    "type": "Cocktails",
+    "time": 6,
+    "difficulty": "Einfach",
+    "servings": 2,
+    "description": "",
+    "ingredients": [
+      {
+        "name": "alkoholfreies Malzgetraenk",
+        "amount": 260,
+        "unit": "ml"
+      },
+      {
+        "name": "gemischte Beeren",
+        "amount": 180,
+        "unit": "g"
+      },
+      {
+        "name": "Zitronensaft",
+        "amount": 25,
+        "unit": "ml"
+      },
+      {
+        "name": "Ahornsirup",
+        "amount": 15,
+        "unit": "ml"
+      },
+      {
+        "name": "Eiswuerfel",
+        "amount": 160,
+        "unit": "g"
+      },
+      {
+        "name": "Minze",
+        "amount": 4,
+        "unit": "g"
+      }
+    ],
+    "steps": [
+      "Beeren verlesen und Minze trocken tupfen.",
+      "Beeren, Zitronensaft und Ahornsirup fein mixen.",
+      "Die Beerenbasis auf Eis in Glaeser geben.",
+      "Mit alkoholfreiem Malzgetraenk auffuellen und mit Minze servieren."
+    ],
+    "tip": "Kohlensaeurehaltige Zutaten immer erst nach dem Mixen sanft unterruehren, damit der Drink frisch bleibt.",
+    "nutrition": {
+      "kcal": "160 kcal",
+      "protein": "2 g",
+      "carbs": "34 g",
+      "fat": "0 g"
+    },
+    "tags": [
+      "Deutsch",
+      "Cocktails",
+      "Alkoholfrei",
+      "Vegan",
+      "Kinder"
+    ],
+    "image": "assets/images/recipes/cocktail-de-berry-malt-mocktail.png",
+    "fallbackImage": "assets/images/recipes/cocktail-de-berry-malt-mocktail.png",
+    "favorite": false,
+    "diet": {
+      "vegetarian": true,
+      "vegan": true,
+      "glutenFree": false,
+      "kids": true,
+      "mealPrep": false
+    },
+    "device": {
+      "name": "Ninja Detect Blender & Processor TB401EU Power Pro",
+      "program": "BlendSense / Smoothie",
+      "temperature": "kalt / ohne Erhitzen",
+      "time": "20-30 Sek.",
+      "accessory": "Detect Power Blender Krug, Klingenblock sicher verriegelt",
+      "steps": [
+        "Beeren, Zitronensaft und Ahornsirup in den Detect Krug geben.",
+        "BlendSense starten, bis die Beerenbasis glatt ist.",
+        "Auf Eis in Glaeser verteilen.",
+        "Alkoholfreies Malzgetraenk ausserhalb des Blenders langsam angiessen."
+      ]
+    },
+    "preparationSteps": [
+      "Beeren verlesen und Minze trocken tupfen.",
+      "Beeren, Zitronensaft und Ahornsirup fein mixen.",
+      "Die Beerenbasis auf Eis in Glaeser geben.",
+      "Mit alkoholfreiem Malzgetraenk auffuellen und mit Minze servieren."
+    ]
+  },
+  {
+    "id": "it-shake-pistachio-vanilla",
+    "title": "Pistazien Vanille Shake (Italienisch)",
+    "country": "Italien",
+    "category": "Italienisch",
+    "type": "Shakes",
+    "time": 8,
+    "difficulty": "Einfach",
+    "servings": 2,
+    "description": "",
+    "ingredients": [
+      {
+        "name": "Vanilleeis",
+        "amount": 260,
+        "unit": "g"
+      },
+      {
+        "name": "Milch",
+        "amount": 260,
+        "unit": "ml"
+      },
+      {
+        "name": "Pistazienmus",
+        "amount": 45,
+        "unit": "g"
+      },
+      {
+        "name": "Pistazien gehackt",
+        "amount": 20,
+        "unit": "g"
+      },
+      {
+        "name": "Vanille",
+        "amount": 1,
+        "unit": "g"
+      }
+    ],
+    "steps": [
+      "Vanilleeis, Milch, Pistazienmus und Vanille in den Krug geben.",
+      "Cremig mixen, bis das Pistazienmus vollstaendig eingearbeitet ist.",
+      "In gekuehlte Glaeser fuellen.",
+      "Mit gehackten Pistazien bestreuen und sofort servieren."
+    ],
+    "tip": "Fuer eine dickere Textur 4-6 Eiswuerfel oder gefrorene Fruchtstuecke verwenden und den Krug nicht ueberfuellen.",
+    "nutrition": {
+      "kcal": "420 kcal",
+      "protein": "12 g",
+      "carbs": "39 g",
+      "fat": "24 g"
+    },
+    "tags": [
+      "Italienisch",
+      "Shakes",
+      "Vegetarisch"
+    ],
+    "image": "assets/images/recipes/shake-it-pistachio-vanilla.png",
+    "fallbackImage": "assets/images/recipes/shake-it-pistachio-vanilla.png",
+    "favorite": false,
+    "diet": {
+      "vegetarian": true,
+      "vegan": false,
+      "glutenFree": true,
+      "kids": true,
+      "mealPrep": false
+    },
+    "device": {
+      "name": "Ninja Detect Blender & Processor TB401EU Power Pro",
+      "program": "BlendSense / Smoothie",
+      "temperature": "kalt / ohne Erhitzen",
+      "time": "30-55 Sek.",
+      "accessory": "Detect Power Blender Krug, Klingenblock sicher verriegelt",
+      "steps": [
+        "Vanilleeis, Milch und die weiteren Shake-Zutaten in den Detect Krug geben.",
+        "BlendSense / Smoothie starten und laufen lassen, bis die Textur cremig ist.",
+        "Bei sehr dickem Shake mit 30-50 ml Milch oder Pflanzendrink verduennen und kurz pulsen.",
+        "Toppings wie Kekse, Nuesse oder Schokostuecke erst nach dem Mixen ins Glas geben."
+      ]
+    },
+    "preparationSteps": [
+      "Vanilleeis, Milch, Pistazienmus und Vanille in den Krug geben.",
+      "Cremig mixen, bis das Pistazienmus vollstaendig eingearbeitet ist.",
+      "In gekuehlte Glaeser fuellen.",
+      "Mit gehackten Pistazien bestreuen und sofort servieren."
+    ]
+  },
+  {
+    "id": "it-shake-tiramisu-coffee",
+    "title": "Tiramisu Kaffee Shake (Italienisch)",
+    "country": "Italien",
+    "category": "Italienisch",
+    "type": "Shakes",
+    "time": 8,
+    "difficulty": "Einfach",
+    "servings": 2,
+    "description": "",
+    "ingredients": [
+      {
+        "name": "kalter Espresso",
+        "amount": 90,
+        "unit": "ml"
+      },
+      {
+        "name": "Mascarpone",
+        "amount": 120,
+        "unit": "g"
+      },
+      {
+        "name": "Milch",
+        "amount": 220,
+        "unit": "ml"
+      },
+      {
+        "name": "Vanilleeis",
+        "amount": 220,
+        "unit": "g"
+      },
+      {
+        "name": "Kakaopulver",
+        "amount": 6,
+        "unit": "g"
+      },
+      {
+        "name": "Loeffelbiskuits",
+        "amount": 30,
+        "unit": "g"
+      }
+    ],
+    "steps": [
+      "Espresso vollstaendig abkuehlen lassen.",
+      "Espresso, Mascarpone, Milch, Vanilleeis und Kakaopulver in den Krug geben.",
+      "Kurz cremig mixen.",
+      "Loeffelbiskuits grob zerbrechen und erst im Glas ueber den Shake streuen."
+    ],
+    "tip": "Fuer eine dickere Textur 4-6 Eiswuerfel oder gefrorene Fruchtstuecke verwenden und den Krug nicht ueberfuellen.",
+    "nutrition": {
+      "kcal": "455 kcal",
+      "protein": "10 g",
+      "carbs": "45 g",
+      "fat": "25 g"
+    },
+    "tags": [
+      "Italienisch",
+      "Shakes",
+      "Vegetarisch"
+    ],
+    "image": "assets/images/recipes/shake-it-tiramisu-coffee.png",
+    "fallbackImage": "assets/images/recipes/shake-it-tiramisu-coffee.png",
+    "favorite": false,
+    "diet": {
+      "vegetarian": true,
+      "vegan": false,
+      "glutenFree": true,
+      "kids": true,
+      "mealPrep": false
+    },
+    "device": {
+      "name": "Ninja Detect Blender & Processor TB401EU Power Pro",
+      "program": "BlendSense / Smoothie",
+      "temperature": "kalt / ohne Erhitzen",
+      "time": "30-55 Sek.",
+      "accessory": "Detect Power Blender Krug, Klingenblock sicher verriegelt",
+      "steps": [
+        "kalter Espresso, Mascarpone und die weiteren Shake-Zutaten in den Detect Krug geben.",
+        "BlendSense / Smoothie starten und laufen lassen, bis die Textur cremig ist.",
+        "Bei sehr dickem Shake mit 30-50 ml Milch oder Pflanzendrink verduennen und kurz pulsen.",
+        "Toppings wie Kekse, Nuesse oder Schokostuecke erst nach dem Mixen ins Glas geben."
+      ]
+    },
+    "preparationSteps": [
+      "Espresso vollstaendig abkuehlen lassen.",
+      "Espresso, Mascarpone, Milch, Vanilleeis und Kakaopulver in den Krug geben.",
+      "Kurz cremig mixen.",
+      "Loeffelbiskuits grob zerbrechen und erst im Glas ueber den Shake streuen."
+    ]
+  },
+  {
+    "id": "it-shake-strawberry-mascarpone",
+    "title": "Erdbeer Mascarpone Shake (Italienisch)",
+    "country": "Italien",
+    "category": "Italienisch",
+    "type": "Shakes",
+    "time": 8,
+    "difficulty": "Einfach",
+    "servings": 2,
+    "description": "",
+    "ingredients": [
+      {
+        "name": "Erdbeeren",
+        "amount": 280,
+        "unit": "g"
+      },
+      {
+        "name": "Mascarpone",
+        "amount": 100,
+        "unit": "g"
+      },
+      {
+        "name": "Milch",
+        "amount": 240,
+        "unit": "ml"
+      },
+      {
+        "name": "Vanilleeis",
+        "amount": 180,
+        "unit": "g"
+      },
+      {
+        "name": "Zitronensaft",
+        "amount": 10,
+        "unit": "ml"
+      }
+    ],
+    "steps": [
+      "Erdbeeren putzen und halbieren.",
+      "Erdbeeren, Mascarpone, Milch, Vanilleeis und Zitronensaft in den Krug geben.",
+      "Cremig mixen, bis keine Erdbeerstuecke mehr sichtbar sind.",
+      "In kalte Glaeser fuellen und direkt servieren."
+    ],
+    "tip": "Fuer eine dickere Textur 4-6 Eiswuerfel oder gefrorene Fruchtstuecke verwenden und den Krug nicht ueberfuellen.",
+    "nutrition": {
+      "kcal": "390 kcal",
+      "protein": "9 g",
+      "carbs": "38 g",
+      "fat": "22 g"
+    },
+    "tags": [
+      "Italienisch",
+      "Shakes",
+      "Vegetarisch"
+    ],
+    "image": "assets/images/recipes/shake-it-strawberry-mascarpone.png",
+    "fallbackImage": "assets/images/recipes/shake-it-strawberry-mascarpone.png",
+    "favorite": false,
+    "diet": {
+      "vegetarian": true,
+      "vegan": false,
+      "glutenFree": true,
+      "kids": true,
+      "mealPrep": false
+    },
+    "device": {
+      "name": "Ninja Detect Blender & Processor TB401EU Power Pro",
+      "program": "BlendSense / Smoothie",
+      "temperature": "kalt / ohne Erhitzen",
+      "time": "30-55 Sek.",
+      "accessory": "Detect Power Blender Krug, Klingenblock sicher verriegelt",
+      "steps": [
+        "Erdbeeren, Mascarpone und die weiteren Shake-Zutaten in den Detect Krug geben.",
+        "BlendSense / Smoothie starten und laufen lassen, bis die Textur cremig ist.",
+        "Bei sehr dickem Shake mit 30-50 ml Milch oder Pflanzendrink verduennen und kurz pulsen.",
+        "Toppings wie Kekse, Nuesse oder Schokostuecke erst nach dem Mixen ins Glas geben."
+      ]
+    },
+    "preparationSteps": [
+      "Erdbeeren putzen und halbieren.",
+      "Erdbeeren, Mascarpone, Milch, Vanilleeis und Zitronensaft in den Krug geben.",
+      "Cremig mixen, bis keine Erdbeerstuecke mehr sichtbar sind.",
+      "In kalte Glaeser fuellen und direkt servieren."
+    ]
+  },
+  {
+    "id": "it-shake-lemon-ricotta",
+    "title": "Zitronen Ricotta Shake (Italienisch)",
+    "country": "Italien",
+    "category": "Italienisch",
+    "type": "Shakes",
+    "time": 8,
+    "difficulty": "Einfach",
+    "servings": 2,
+    "description": "",
+    "ingredients": [
+      {
+        "name": "Ricotta",
+        "amount": 160,
+        "unit": "g"
+      },
+      {
+        "name": "Milch",
+        "amount": 260,
+        "unit": "ml"
+      },
+      {
+        "name": "Zitronensaft",
+        "amount": 25,
+        "unit": "ml"
+      },
+      {
+        "name": "Zitronenabrieb",
+        "amount": 3,
+        "unit": "g"
+      },
+      {
+        "name": "Vanilleeis",
+        "amount": 220,
+        "unit": "g"
+      },
+      {
+        "name": "Honig",
+        "amount": 25,
+        "unit": "g"
+      }
+    ],
+    "steps": [
+      "Zitrone heiß abwaschen, Schale abreiben und Saft auspressen.",
+      "Ricotta, Milch, Zitronensaft, Zitronenabrieb, Vanilleeis und Honig in den Krug geben.",
+      "Glatt mixen, bis der Ricotta keine Koernchen mehr bildet.",
+      "Gut gekuehlt servieren."
+    ],
+    "tip": "Fuer eine dickere Textur 4-6 Eiswuerfel oder gefrorene Fruchtstuecke verwenden und den Krug nicht ueberfuellen.",
+    "nutrition": {
+      "kcal": "410 kcal",
+      "protein": "13 g",
+      "carbs": "42 g",
+      "fat": "20 g"
+    },
+    "tags": [
+      "Italienisch",
+      "Shakes",
+      "Vegetarisch"
+    ],
+    "image": "assets/images/recipes/shake-it-lemon-ricotta.png",
+    "fallbackImage": "assets/images/recipes/shake-it-lemon-ricotta.png",
+    "favorite": false,
+    "diet": {
+      "vegetarian": true,
+      "vegan": false,
+      "glutenFree": true,
+      "kids": true,
+      "mealPrep": false
+    },
+    "device": {
+      "name": "Ninja Detect Blender & Processor TB401EU Power Pro",
+      "program": "BlendSense / Smoothie",
+      "temperature": "kalt / ohne Erhitzen",
+      "time": "30-55 Sek.",
+      "accessory": "Detect Power Blender Krug, Klingenblock sicher verriegelt",
+      "steps": [
+        "Ricotta, Milch und die weiteren Shake-Zutaten in den Detect Krug geben.",
+        "BlendSense / Smoothie starten und laufen lassen, bis die Textur cremig ist.",
+        "Bei sehr dickem Shake mit 30-50 ml Milch oder Pflanzendrink verduennen und kurz pulsen.",
+        "Toppings wie Kekse, Nuesse oder Schokostuecke erst nach dem Mixen ins Glas geben."
+      ]
+    },
+    "preparationSteps": [
+      "Zitrone heiß abwaschen, Schale abreiben und Saft auspressen.",
+      "Ricotta, Milch, Zitronensaft, Zitronenabrieb, Vanilleeis und Honig in den Krug geben.",
+      "Glatt mixen, bis der Ricotta keine Koernchen mehr bildet.",
+      "Gut gekuehlt servieren."
+    ]
+  },
+  {
+    "id": "es-shake-horchata-almond-cinnamon",
+    "title": "Horchata Mandel Zimt Shake (Spanisch)",
+    "country": "Spanien",
+    "category": "Spanisch",
+    "type": "Shakes",
+    "time": 8,
+    "difficulty": "Einfach",
+    "servings": 2,
+    "description": "",
+    "ingredients": [
+      {
+        "name": "Mandeldrink",
+        "amount": 320,
+        "unit": "ml"
+      },
+      {
+        "name": "Vanilleeis",
+        "amount": 220,
+        "unit": "g"
+      },
+      {
+        "name": "Mandelmus",
+        "amount": 35,
+        "unit": "g"
+      },
+      {
+        "name": "Zimt",
+        "amount": 3,
+        "unit": "g"
+      },
+      {
+        "name": "Agavendicksaft",
+        "amount": 20,
+        "unit": "g"
+      }
+    ],
+    "steps": [
+      "Mandeldrink, Vanilleeis, Mandelmus, Zimt und Agavendicksaft in den Krug geben.",
+      "Cremig mixen, bis das Mandelmus vollstaendig verteilt ist.",
+      "Mit etwas Zimt abschmecken.",
+      "In Glaeser fuellen und kalt servieren."
+    ],
+    "tip": "Fuer eine dickere Textur 4-6 Eiswuerfel oder gefrorene Fruchtstuecke verwenden und den Krug nicht ueberfuellen.",
+    "nutrition": {
+      "kcal": "360 kcal",
+      "protein": "8 g",
+      "carbs": "38 g",
+      "fat": "19 g"
+    },
+    "tags": [
+      "Spanisch",
+      "Shakes",
+      "Vegetarisch"
+    ],
+    "image": "assets/images/recipes/shake-es-horchata-almond-cinnamon.png",
+    "fallbackImage": "assets/images/recipes/shake-es-horchata-almond-cinnamon.png",
+    "favorite": false,
+    "diet": {
+      "vegetarian": true,
+      "vegan": false,
+      "glutenFree": true,
+      "kids": true,
+      "mealPrep": false
+    },
+    "device": {
+      "name": "Ninja Detect Blender & Processor TB401EU Power Pro",
+      "program": "BlendSense / Smoothie",
+      "temperature": "kalt / ohne Erhitzen",
+      "time": "30-55 Sek.",
+      "accessory": "Detect Power Blender Krug, Klingenblock sicher verriegelt",
+      "steps": [
+        "Mandeldrink, Vanilleeis und die weiteren Shake-Zutaten in den Detect Krug geben.",
+        "BlendSense / Smoothie starten und laufen lassen, bis die Textur cremig ist.",
+        "Bei sehr dickem Shake mit 30-50 ml Milch oder Pflanzendrink verduennen und kurz pulsen.",
+        "Toppings wie Kekse, Nuesse oder Schokostuecke erst nach dem Mixen ins Glas geben."
+      ]
+    },
+    "preparationSteps": [
+      "Mandeldrink, Vanilleeis, Mandelmus, Zimt und Agavendicksaft in den Krug geben.",
+      "Cremig mixen, bis das Mandelmus vollstaendig verteilt ist.",
+      "Mit etwas Zimt abschmecken.",
+      "In Glaeser fuellen und kalt servieren."
+    ]
+  },
+  {
+    "id": "es-shake-orange-almond",
+    "title": "Orange Mandel Shake (Spanisch)",
+    "country": "Spanien",
+    "category": "Spanisch",
+    "type": "Shakes",
+    "time": 8,
+    "difficulty": "Einfach",
+    "servings": 2,
+    "description": "",
+    "ingredients": [
+      {
+        "name": "Orangensaft",
+        "amount": 220,
+        "unit": "ml"
+      },
+      {
+        "name": "Mandeldrink",
+        "amount": 160,
+        "unit": "ml"
+      },
+      {
+        "name": "Vanilleeis",
+        "amount": 220,
+        "unit": "g"
+      },
+      {
+        "name": "Mandelmus",
+        "amount": 25,
+        "unit": "g"
+      },
+      {
+        "name": "Orangenabrieb",
+        "amount": 3,
+        "unit": "g"
+      }
+    ],
+    "steps": [
+      "Orange heiß abwaschen und etwas Schale abreiben.",
+      "Orangensaft, Mandeldrink, Vanilleeis, Mandelmus und Orangenabrieb in den Krug geben.",
+      "Kurz cremig mixen.",
+      "In gekuehlte Glaeser geben und direkt trinken."
+    ],
+    "tip": "Fuer eine dickere Textur 4-6 Eiswuerfel oder gefrorene Fruchtstuecke verwenden und den Krug nicht ueberfuellen.",
+    "nutrition": {
+      "kcal": "330 kcal",
+      "protein": "7 g",
+      "carbs": "43 g",
+      "fat": "14 g"
+    },
+    "tags": [
+      "Spanisch",
+      "Shakes",
+      "Vegetarisch"
+    ],
+    "image": "assets/images/recipes/shake-es-orange-almond.png",
+    "fallbackImage": "assets/images/recipes/shake-es-orange-almond.png",
+    "favorite": false,
+    "diet": {
+      "vegetarian": true,
+      "vegan": false,
+      "glutenFree": true,
+      "kids": true,
+      "mealPrep": false
+    },
+    "device": {
+      "name": "Ninja Detect Blender & Processor TB401EU Power Pro",
+      "program": "BlendSense / Smoothie",
+      "temperature": "kalt / ohne Erhitzen",
+      "time": "30-55 Sek.",
+      "accessory": "Detect Power Blender Krug, Klingenblock sicher verriegelt",
+      "steps": [
+        "Orangensaft, Mandeldrink und die weiteren Shake-Zutaten in den Detect Krug geben.",
+        "BlendSense / Smoothie starten und laufen lassen, bis die Textur cremig ist.",
+        "Bei sehr dickem Shake mit 30-50 ml Milch oder Pflanzendrink verduennen und kurz pulsen.",
+        "Toppings wie Kekse, Nuesse oder Schokostuecke erst nach dem Mixen ins Glas geben."
+      ]
+    },
+    "preparationSteps": [
+      "Orange heiß abwaschen und etwas Schale abreiben.",
+      "Orangensaft, Mandeldrink, Vanilleeis, Mandelmus und Orangenabrieb in den Krug geben.",
+      "Kurz cremig mixen.",
+      "In gekuehlte Glaeser geben und direkt trinken."
+    ]
+  },
+  {
+    "id": "es-shake-chocolate-churro",
+    "title": "Schoko Churro Shake (Spanisch)",
+    "country": "Spanien",
+    "category": "Spanisch",
+    "type": "Shakes",
+    "time": 8,
+    "difficulty": "Einfach",
+    "servings": 2,
+    "description": "",
+    "ingredients": [
+      {
+        "name": "Schokoladeneis",
+        "amount": 260,
+        "unit": "g"
+      },
+      {
+        "name": "Milch",
+        "amount": 280,
+        "unit": "ml"
+      },
+      {
+        "name": "Zimt",
+        "amount": 3,
+        "unit": "g"
+      },
+      {
+        "name": "Kakaopulver",
+        "amount": 10,
+        "unit": "g"
+      },
+      {
+        "name": "Churro Stuecke",
+        "amount": 50,
+        "unit": "g"
+      }
+    ],
+    "steps": [
+      "Schokoladeneis, Milch, Zimt und Kakaopulver in den Krug geben.",
+      "Cremig mixen, bis der Kakao glatt eingearbeitet ist.",
+      "Churro Stuecke grob zerbrechen.",
+      "Shake in Glaeser fuellen und mit Churro Stuecken toppen."
+    ],
+    "tip": "Fuer eine dickere Textur 4-6 Eiswuerfel oder gefrorene Fruchtstuecke verwenden und den Krug nicht ueberfuellen.",
+    "nutrition": {
+      "kcal": "480 kcal",
+      "protein": "11 g",
+      "carbs": "58 g",
+      "fat": "22 g"
+    },
+    "tags": [
+      "Spanisch",
+      "Shakes",
+      "Vegetarisch"
+    ],
+    "image": "assets/images/recipes/shake-es-chocolate-churro.png",
+    "fallbackImage": "assets/images/recipes/shake-es-chocolate-churro.png",
+    "favorite": false,
+    "diet": {
+      "vegetarian": true,
+      "vegan": false,
+      "glutenFree": false,
+      "kids": true,
+      "mealPrep": false
+    },
+    "device": {
+      "name": "Ninja Detect Blender & Processor TB401EU Power Pro",
+      "program": "BlendSense / Smoothie",
+      "temperature": "kalt / ohne Erhitzen",
+      "time": "30-55 Sek.",
+      "accessory": "Detect Power Blender Krug, Klingenblock sicher verriegelt",
+      "steps": [
+        "Schokoladeneis, Milch und die weiteren Shake-Zutaten in den Detect Krug geben.",
+        "BlendSense / Smoothie starten und laufen lassen, bis die Textur cremig ist.",
+        "Bei sehr dickem Shake mit 30-50 ml Milch oder Pflanzendrink verduennen und kurz pulsen.",
+        "Toppings wie Kekse, Nuesse oder Schokostuecke erst nach dem Mixen ins Glas geben."
+      ]
+    },
+    "preparationSteps": [
+      "Schokoladeneis, Milch, Zimt und Kakaopulver in den Krug geben.",
+      "Cremig mixen, bis der Kakao glatt eingearbeitet ist.",
+      "Churro Stuecke grob zerbrechen.",
+      "Shake in Glaeser fuellen und mit Churro Stuecken toppen."
+    ]
+  },
+  {
+    "id": "es-shake-peach-yogurt",
+    "title": "Pfirsich Joghurt Shake (Spanisch)",
+    "country": "Spanien",
+    "category": "Spanisch",
+    "type": "Shakes",
+    "time": 8,
+    "difficulty": "Einfach",
+    "servings": 2,
+    "description": "",
+    "ingredients": [
+      {
+        "name": "Pfirsiche",
+        "amount": 300,
+        "unit": "g"
+      },
+      {
+        "name": "Naturjoghurt",
+        "amount": 180,
+        "unit": "g"
+      },
+      {
+        "name": "Milch",
+        "amount": 180,
+        "unit": "ml"
+      },
+      {
+        "name": "Vanilleeis",
+        "amount": 160,
+        "unit": "g"
+      },
+      {
+        "name": "Honig",
+        "amount": 20,
+        "unit": "g"
+      }
+    ],
+    "steps": [
+      "Pfirsiche entsteinen und in Stuecke schneiden.",
+      "Pfirsiche, Naturjoghurt, Milch, Vanilleeis und Honig in den Krug geben.",
+      "Glatt mixen, bis die Pfirsichhaut fein verteilt ist.",
+      "Gut gekuehlt servieren."
+    ],
+    "tip": "Fuer eine dickere Textur 4-6 Eiswuerfel oder gefrorene Fruchtstuecke verwenden und den Krug nicht ueberfuellen.",
+    "nutrition": {
+      "kcal": "340 kcal",
+      "protein": "11 g",
+      "carbs": "49 g",
+      "fat": "10 g"
+    },
+    "tags": [
+      "Spanisch",
+      "Shakes",
+      "Vegetarisch"
+    ],
+    "image": "assets/images/recipes/shake-es-peach-yogurt.png",
+    "fallbackImage": "assets/images/recipes/shake-es-peach-yogurt.png",
+    "favorite": false,
+    "diet": {
+      "vegetarian": true,
+      "vegan": false,
+      "glutenFree": true,
+      "kids": true,
+      "mealPrep": false
+    },
+    "device": {
+      "name": "Ninja Detect Blender & Processor TB401EU Power Pro",
+      "program": "BlendSense / Smoothie",
+      "temperature": "kalt / ohne Erhitzen",
+      "time": "30-55 Sek.",
+      "accessory": "Detect Power Blender Krug, Klingenblock sicher verriegelt",
+      "steps": [
+        "Pfirsiche, Naturjoghurt und die weiteren Shake-Zutaten in den Detect Krug geben.",
+        "BlendSense / Smoothie starten und laufen lassen, bis die Textur cremig ist.",
+        "Bei sehr dickem Shake mit 30-50 ml Milch oder Pflanzendrink verduennen und kurz pulsen.",
+        "Toppings wie Kekse, Nuesse oder Schokostuecke erst nach dem Mixen ins Glas geben."
+      ]
+    },
+    "preparationSteps": [
+      "Pfirsiche entsteinen und in Stuecke schneiden.",
+      "Pfirsiche, Naturjoghurt, Milch, Vanilleeis und Honig in den Krug geben.",
+      "Glatt mixen, bis die Pfirsichhaut fein verteilt ist.",
+      "Gut gekuehlt servieren."
+    ]
+  },
+  {
+    "id": "us-shake-peanut-butter-banana",
+    "title": "Peanut Butter Banana Shake (Amerikanisch)",
+    "country": "USA",
+    "category": "Amerikanisch",
+    "type": "Shakes",
+    "time": 8,
+    "difficulty": "Einfach",
+    "servings": 2,
+    "description": "",
+    "ingredients": [
+      {
+        "name": "Banane",
+        "amount": 2,
+        "unit": "Stk"
+      },
+      {
+        "name": "Milch",
+        "amount": 300,
+        "unit": "ml"
+      },
+      {
+        "name": "Vanilleeis",
+        "amount": 220,
+        "unit": "g"
+      },
+      {
+        "name": "Erdnussbutter",
+        "amount": 50,
+        "unit": "g"
+      },
+      {
+        "name": "Ahornsirup",
+        "amount": 15,
+        "unit": "ml"
+      }
+    ],
+    "steps": [
+      "Bananen schaelen und in Stuecke brechen.",
+      "Banane, Milch, Vanilleeis, Erdnussbutter und Ahornsirup in den Krug geben.",
+      "Cremig mixen, bis die Erdnussbutter vollstaendig geloest ist.",
+      "In grosse Glaeser fuellen und sofort servieren."
+    ],
+    "tip": "Fuer eine dickere Textur 4-6 Eiswuerfel oder gefrorene Fruchtstuecke verwenden und den Krug nicht ueberfuellen.",
+    "nutrition": {
+      "kcal": "520 kcal",
+      "protein": "17 g",
+      "carbs": "61 g",
+      "fat": "24 g"
+    },
+    "tags": [
+      "Amerikanisch",
+      "Shakes",
+      "Vegetarisch"
+    ],
+    "image": "assets/images/recipes/shake-us-peanut-butter-banana.png",
+    "fallbackImage": "assets/images/recipes/shake-us-peanut-butter-banana.png",
+    "favorite": false,
+    "diet": {
+      "vegetarian": true,
+      "vegan": false,
+      "glutenFree": true,
+      "kids": true,
+      "mealPrep": false
+    },
+    "device": {
+      "name": "Ninja Detect Blender & Processor TB401EU Power Pro",
+      "program": "BlendSense / Smoothie",
+      "temperature": "kalt / ohne Erhitzen",
+      "time": "30-55 Sek.",
+      "accessory": "Detect Power Blender Krug, Klingenblock sicher verriegelt",
+      "steps": [
+        "Banane, Milch und die weiteren Shake-Zutaten in den Detect Krug geben.",
+        "BlendSense / Smoothie starten und laufen lassen, bis die Textur cremig ist.",
+        "Bei sehr dickem Shake mit 30-50 ml Milch oder Pflanzendrink verduennen und kurz pulsen.",
+        "Toppings wie Kekse, Nuesse oder Schokostuecke erst nach dem Mixen ins Glas geben."
+      ]
+    },
+    "preparationSteps": [
+      "Bananen schaelen und in Stuecke brechen.",
+      "Banane, Milch, Vanilleeis, Erdnussbutter und Ahornsirup in den Krug geben.",
+      "Cremig mixen, bis die Erdnussbutter vollstaendig geloest ist.",
+      "In grosse Glaeser fuellen und sofort servieren."
+    ]
+  },
+  {
+    "id": "us-shake-chocolate-brownie",
+    "title": "Chocolate Brownie Shake (Amerikanisch)",
+    "country": "USA",
+    "category": "Amerikanisch",
+    "type": "Shakes",
+    "time": 8,
+    "difficulty": "Einfach",
+    "servings": 2,
+    "description": "",
+    "ingredients": [
+      {
+        "name": "Schokoladeneis",
+        "amount": 300,
+        "unit": "g"
+      },
+      {
+        "name": "Milch",
+        "amount": 280,
+        "unit": "ml"
+      },
+      {
+        "name": "Brownie Stuecke",
+        "amount": 80,
+        "unit": "g"
+      },
+      {
+        "name": "Kakaopulver",
+        "amount": 10,
+        "unit": "g"
+      },
+      {
+        "name": "Schokosauce",
+        "amount": 30,
+        "unit": "g"
+      }
+    ],
+    "steps": [
+      "Schokoladeneis, Milch, Kakaopulver und Schokosauce in den Krug geben.",
+      "Kurz cremig mixen.",
+      "Brownie Stuecke grob zerbrechen und die Haelfte kurz unterpulsen.",
+      "Mit restlichen Brownie Stuecken im Glas toppen."
+    ],
+    "tip": "Fuer eine dickere Textur 4-6 Eiswuerfel oder gefrorene Fruchtstuecke verwenden und den Krug nicht ueberfuellen.",
+    "nutrition": {
+      "kcal": "610 kcal",
+      "protein": "13 g",
+      "carbs": "76 g",
+      "fat": "29 g"
+    },
+    "tags": [
+      "Amerikanisch",
+      "Shakes",
+      "Vegetarisch"
+    ],
+    "image": "assets/images/recipes/shake-us-chocolate-brownie.png",
+    "fallbackImage": "assets/images/recipes/shake-us-chocolate-brownie.png",
+    "favorite": false,
+    "diet": {
+      "vegetarian": true,
+      "vegan": false,
+      "glutenFree": false,
+      "kids": true,
+      "mealPrep": false
+    },
+    "device": {
+      "name": "Ninja Detect Blender & Processor TB401EU Power Pro",
+      "program": "BlendSense / Smoothie",
+      "temperature": "kalt / ohne Erhitzen",
+      "time": "30-55 Sek.",
+      "accessory": "Detect Power Blender Krug, Klingenblock sicher verriegelt",
+      "steps": [
+        "Schokoladeneis, Milch und die weiteren Shake-Zutaten in den Detect Krug geben.",
+        "BlendSense / Smoothie starten und laufen lassen, bis die Textur cremig ist.",
+        "Bei sehr dickem Shake mit 30-50 ml Milch oder Pflanzendrink verduennen und kurz pulsen.",
+        "Toppings wie Kekse, Nuesse oder Schokostuecke erst nach dem Mixen ins Glas geben."
+      ]
+    },
+    "preparationSteps": [
+      "Schokoladeneis, Milch, Kakaopulver und Schokosauce in den Krug geben.",
+      "Kurz cremig mixen.",
+      "Brownie Stuecke grob zerbrechen und die Haelfte kurz unterpulsen.",
+      "Mit restlichen Brownie Stuecken im Glas toppen."
+    ]
+  },
+  {
+    "id": "us-shake-blueberry-cheesecake",
+    "title": "Blueberry Cheesecake Shake (Amerikanisch)",
+    "country": "USA",
+    "category": "Amerikanisch",
+    "type": "Shakes",
+    "time": 8,
+    "difficulty": "Einfach",
+    "servings": 2,
+    "description": "",
+    "ingredients": [
+      {
+        "name": "Blaubeeren",
+        "amount": 240,
+        "unit": "g"
+      },
+      {
+        "name": "Frischkaese",
+        "amount": 120,
+        "unit": "g"
+      },
+      {
+        "name": "Milch",
+        "amount": 240,
+        "unit": "ml"
+      },
+      {
+        "name": "Vanilleeis",
+        "amount": 220,
+        "unit": "g"
+      },
+      {
+        "name": "Butterkekse",
+        "amount": 45,
+        "unit": "g"
+      },
+      {
+        "name": "Zitronensaft",
+        "amount": 10,
+        "unit": "ml"
+      }
+    ],
+    "steps": [
+      "Blaubeeren verlesen und Butterkekse grob zerbrechen.",
+      "Blaubeeren, Frischkaese, Milch, Vanilleeis und Zitronensaft cremig mixen.",
+      "Butterkekse erst kurz am Ende unterpulsen.",
+      "In Glaeser fuellen und direkt servieren."
+    ],
+    "tip": "Fuer eine dickere Textur 4-6 Eiswuerfel oder gefrorene Fruchtstuecke verwenden und den Krug nicht ueberfuellen.",
+    "nutrition": {
+      "kcal": "460 kcal",
+      "protein": "11 g",
+      "carbs": "55 g",
+      "fat": "21 g"
+    },
+    "tags": [
+      "Amerikanisch",
+      "Shakes",
+      "Vegetarisch"
+    ],
+    "image": "assets/images/recipes/shake-us-blueberry-cheesecake.png",
+    "fallbackImage": "assets/images/recipes/shake-us-blueberry-cheesecake.png",
+    "favorite": false,
+    "diet": {
+      "vegetarian": true,
+      "vegan": false,
+      "glutenFree": true,
+      "kids": true,
+      "mealPrep": false
+    },
+    "device": {
+      "name": "Ninja Detect Blender & Processor TB401EU Power Pro",
+      "program": "BlendSense / Smoothie",
+      "temperature": "kalt / ohne Erhitzen",
+      "time": "30-55 Sek.",
+      "accessory": "Detect Power Blender Krug, Klingenblock sicher verriegelt",
+      "steps": [
+        "Blaubeeren, Frischkaese und die weiteren Shake-Zutaten in den Detect Krug geben.",
+        "BlendSense / Smoothie starten und laufen lassen, bis die Textur cremig ist.",
+        "Bei sehr dickem Shake mit 30-50 ml Milch oder Pflanzendrink verduennen und kurz pulsen.",
+        "Toppings wie Kekse, Nuesse oder Schokostuecke erst nach dem Mixen ins Glas geben."
+      ]
+    },
+    "preparationSteps": [
+      "Blaubeeren verlesen und Butterkekse grob zerbrechen.",
+      "Blaubeeren, Frischkaese, Milch, Vanilleeis und Zitronensaft cremig mixen.",
+      "Butterkekse erst kurz am Ende unterpulsen.",
+      "In Glaeser fuellen und direkt servieren."
+    ]
+  },
+  {
+    "id": "us-shake-salted-caramel-oat",
+    "title": "Salted Caramel Oat Shake (Amerikanisch)",
+    "country": "USA",
+    "category": "Amerikanisch",
+    "type": "Shakes",
+    "time": 8,
+    "difficulty": "Einfach",
+    "servings": 2,
+    "description": "",
+    "ingredients": [
+      {
+        "name": "Haferdrink",
+        "amount": 320,
+        "unit": "ml"
+      },
+      {
+        "name": "Vanilleeis",
+        "amount": 220,
+        "unit": "g"
+      },
+      {
+        "name": "Karamellsauce",
+        "amount": 45,
+        "unit": "g"
+      },
+      {
+        "name": "Haferflocken zart",
+        "amount": 30,
+        "unit": "g"
+      },
+      {
+        "name": "Salz",
+        "amount": 1,
+        "unit": "g"
+      }
+    ],
+    "steps": [
+      "Haferdrink, Vanilleeis, Karamellsauce, Haferflocken und Salz in den Krug geben.",
+      "Mixen, bis die Haferflocken fein und der Shake cremig ist.",
+      "Mit einem kleinen Klecks Karamellsauce abschmecken.",
+      "In kalte Glaeser fuellen."
+    ],
+    "tip": "Fuer eine dickere Textur 4-6 Eiswuerfel oder gefrorene Fruchtstuecke verwenden und den Krug nicht ueberfuellen.",
+    "nutrition": {
+      "kcal": "430 kcal",
+      "protein": "8 g",
+      "carbs": "67 g",
+      "fat": "15 g"
+    },
+    "tags": [
+      "Amerikanisch",
+      "Shakes",
+      "Vegetarisch"
+    ],
+    "image": "assets/images/recipes/shake-us-salted-caramel-oat.png",
+    "fallbackImage": "assets/images/recipes/shake-us-salted-caramel-oat.png",
+    "favorite": false,
+    "diet": {
+      "vegetarian": true,
+      "vegan": false,
+      "glutenFree": true,
+      "kids": true,
+      "mealPrep": false
+    },
+    "device": {
+      "name": "Ninja Detect Blender & Processor TB401EU Power Pro",
+      "program": "BlendSense / Smoothie",
+      "temperature": "kalt / ohne Erhitzen",
+      "time": "30-55 Sek.",
+      "accessory": "Detect Power Blender Krug, Klingenblock sicher verriegelt",
+      "steps": [
+        "Haferdrink, Vanilleeis und die weiteren Shake-Zutaten in den Detect Krug geben.",
+        "BlendSense / Smoothie starten und laufen lassen, bis die Textur cremig ist.",
+        "Bei sehr dickem Shake mit 30-50 ml Milch oder Pflanzendrink verduennen und kurz pulsen.",
+        "Toppings wie Kekse, Nuesse oder Schokostuecke erst nach dem Mixen ins Glas geben."
+      ]
+    },
+    "preparationSteps": [
+      "Haferdrink, Vanilleeis, Karamellsauce, Haferflocken und Salz in den Krug geben.",
+      "Mixen, bis die Haferflocken fein und der Shake cremig ist.",
+      "Mit einem kleinen Klecks Karamellsauce abschmecken.",
+      "In kalte Glaeser fuellen."
+    ]
+  },
+  {
+    "id": "de-shake-apple-strudel",
+    "title": "Apfelstrudel Shake (Deutsch)",
+    "country": "Deutschland",
+    "category": "Deutsch",
+    "type": "Shakes",
+    "time": 8,
+    "difficulty": "Einfach",
+    "servings": 2,
+    "description": "",
+    "ingredients": [
+      {
+        "name": "Apfel",
+        "amount": 260,
+        "unit": "g"
+      },
+      {
+        "name": "Milch",
+        "amount": 280,
+        "unit": "ml"
+      },
+      {
+        "name": "Vanilleeis",
+        "amount": 220,
+        "unit": "g"
+      },
+      {
+        "name": "Zimt",
+        "amount": 3,
+        "unit": "g"
+      },
+      {
+        "name": "Rosinen",
+        "amount": 25,
+        "unit": "g"
+      },
+      {
+        "name": "Butterkeks",
+        "amount": 35,
+        "unit": "g"
+      }
+    ],
+    "steps": [
+      "Apfel entkernen und in Stuecke schneiden.",
+      "Apfel, Milch, Vanilleeis und Zimt in den Krug geben.",
+      "Cremig mixen, bis der Apfel fein ist.",
+      "Rosinen und Butterkeksstuecke erst im Glas daruebergeben."
+    ],
+    "tip": "Fuer eine dickere Textur 4-6 Eiswuerfel oder gefrorene Fruchtstuecke verwenden und den Krug nicht ueberfuellen.",
+    "nutrition": {
+      "kcal": "420 kcal",
+      "protein": "9 g",
+      "carbs": "62 g",
+      "fat": "15 g"
+    },
+    "tags": [
+      "Deutsch",
+      "Shakes",
+      "Vegetarisch"
+    ],
+    "image": "assets/images/recipes/shake-de-apple-strudel.png",
+    "fallbackImage": "assets/images/recipes/shake-de-apple-strudel.png",
+    "favorite": false,
+    "diet": {
+      "vegetarian": true,
+      "vegan": false,
+      "glutenFree": true,
+      "kids": true,
+      "mealPrep": false
+    },
+    "device": {
+      "name": "Ninja Detect Blender & Processor TB401EU Power Pro",
+      "program": "BlendSense / Smoothie",
+      "temperature": "kalt / ohne Erhitzen",
+      "time": "30-55 Sek.",
+      "accessory": "Detect Power Blender Krug, Klingenblock sicher verriegelt",
+      "steps": [
+        "Apfel, Milch und die weiteren Shake-Zutaten in den Detect Krug geben.",
+        "BlendSense / Smoothie starten und laufen lassen, bis die Textur cremig ist.",
+        "Bei sehr dickem Shake mit 30-50 ml Milch oder Pflanzendrink verduennen und kurz pulsen.",
+        "Toppings wie Kekse, Nuesse oder Schokostuecke erst nach dem Mixen ins Glas geben."
+      ]
+    },
+    "preparationSteps": [
+      "Apfel entkernen und in Stuecke schneiden.",
+      "Apfel, Milch, Vanilleeis und Zimt in den Krug geben.",
+      "Cremig mixen, bis der Apfel fein ist.",
+      "Rosinen und Butterkeksstuecke erst im Glas daruebergeben."
+    ]
+  },
+  {
+    "id": "de-shake-black-forest-cherry",
+    "title": "Schwarzwald Kirsch Shake (Deutsch)",
+    "country": "Deutschland",
+    "category": "Deutsch",
+    "type": "Shakes",
+    "time": 8,
+    "difficulty": "Einfach",
+    "servings": 2,
+    "description": "",
+    "ingredients": [
+      {
+        "name": "Sauerkirschen entsteint",
+        "amount": 240,
+        "unit": "g"
+      },
+      {
+        "name": "Schokoladeneis",
+        "amount": 260,
+        "unit": "g"
+      },
+      {
+        "name": "Milch",
+        "amount": 260,
+        "unit": "ml"
+      },
+      {
+        "name": "Sahne",
+        "amount": 60,
+        "unit": "ml"
+      },
+      {
+        "name": "Kakaopulver",
+        "amount": 8,
+        "unit": "g"
+      }
+    ],
+    "steps": [
+      "Sauerkirschen abtropfen lassen.",
+      "Kirschen, Schokoladeneis, Milch, Sahne und Kakaopulver in den Krug geben.",
+      "Cremig mixen, bis die Kirschen leicht stueckig verteilt sind.",
+      "In Glaeser fuellen und kalt servieren."
+    ],
+    "tip": "Fuer eine dickere Textur 4-6 Eiswuerfel oder gefrorene Fruchtstuecke verwenden und den Krug nicht ueberfuellen.",
+    "nutrition": {
+      "kcal": "500 kcal",
+      "protein": "10 g",
+      "carbs": "58 g",
+      "fat": "25 g"
+    },
+    "tags": [
+      "Deutsch",
+      "Shakes",
+      "Vegetarisch"
+    ],
+    "image": "assets/images/recipes/shake-de-black-forest-cherry.png",
+    "fallbackImage": "assets/images/recipes/shake-de-black-forest-cherry.png",
+    "favorite": false,
+    "diet": {
+      "vegetarian": true,
+      "vegan": false,
+      "glutenFree": true,
+      "kids": true,
+      "mealPrep": false
+    },
+    "device": {
+      "name": "Ninja Detect Blender & Processor TB401EU Power Pro",
+      "program": "BlendSense / Smoothie",
+      "temperature": "kalt / ohne Erhitzen",
+      "time": "30-55 Sek.",
+      "accessory": "Detect Power Blender Krug, Klingenblock sicher verriegelt",
+      "steps": [
+        "Sauerkirschen entsteint, Schokoladeneis und die weiteren Shake-Zutaten in den Detect Krug geben.",
+        "BlendSense / Smoothie starten und laufen lassen, bis die Textur cremig ist.",
+        "Bei sehr dickem Shake mit 30-50 ml Milch oder Pflanzendrink verduennen und kurz pulsen.",
+        "Toppings wie Kekse, Nuesse oder Schokostuecke erst nach dem Mixen ins Glas geben."
+      ]
+    },
+    "preparationSteps": [
+      "Sauerkirschen abtropfen lassen.",
+      "Kirschen, Schokoladeneis, Milch, Sahne und Kakaopulver in den Krug geben.",
+      "Cremig mixen, bis die Kirschen leicht stueckig verteilt sind.",
+      "In Glaeser fuellen und kalt servieren."
+    ]
+  },
+  {
+    "id": "de-shake-hazelnut-cocoa",
+    "title": "Haselnuss Kakao Shake (Deutsch)",
+    "country": "Deutschland",
+    "category": "Deutsch",
+    "type": "Shakes",
+    "time": 8,
+    "difficulty": "Einfach",
+    "servings": 2,
+    "description": "",
+    "ingredients": [
+      {
+        "name": "Milch",
+        "amount": 320,
+        "unit": "ml"
+      },
+      {
+        "name": "Schokoladeneis",
+        "amount": 220,
+        "unit": "g"
+      },
+      {
+        "name": "Haselnussmus",
+        "amount": 45,
+        "unit": "g"
+      },
+      {
+        "name": "Kakaopulver",
+        "amount": 10,
+        "unit": "g"
+      },
+      {
+        "name": "Haselnuesse geroestet",
+        "amount": 20,
+        "unit": "g"
+      }
+    ],
+    "steps": [
+      "Milch, Schokoladeneis, Haselnussmus und Kakaopulver in den Krug geben.",
+      "Cremig mixen, bis das Haselnussmus glatt verteilt ist.",
+      "Haselnuesse grob hacken.",
+      "Shake in Glaeser fuellen und mit Haselnuesse toppen."
+    ],
+    "tip": "Fuer eine dickere Textur 4-6 Eiswuerfel oder gefrorene Fruchtstuecke verwenden und den Krug nicht ueberfuellen.",
+    "nutrition": {
+      "kcal": "495 kcal",
+      "protein": "14 g",
+      "carbs": "42 g",
+      "fat": "30 g"
+    },
+    "tags": [
+      "Deutsch",
+      "Shakes",
+      "Vegetarisch"
+    ],
+    "image": "assets/images/recipes/shake-de-hazelnut-cocoa.png",
+    "fallbackImage": "assets/images/recipes/shake-de-hazelnut-cocoa.png",
+    "favorite": false,
+    "diet": {
+      "vegetarian": true,
+      "vegan": false,
+      "glutenFree": true,
+      "kids": true,
+      "mealPrep": false
+    },
+    "device": {
+      "name": "Ninja Detect Blender & Processor TB401EU Power Pro",
+      "program": "BlendSense / Smoothie",
+      "temperature": "kalt / ohne Erhitzen",
+      "time": "30-55 Sek.",
+      "accessory": "Detect Power Blender Krug, Klingenblock sicher verriegelt",
+      "steps": [
+        "Milch, Schokoladeneis und die weiteren Shake-Zutaten in den Detect Krug geben.",
+        "BlendSense / Smoothie starten und laufen lassen, bis die Textur cremig ist.",
+        "Bei sehr dickem Shake mit 30-50 ml Milch oder Pflanzendrink verduennen und kurz pulsen.",
+        "Toppings wie Kekse, Nuesse oder Schokostuecke erst nach dem Mixen ins Glas geben."
+      ]
+    },
+    "preparationSteps": [
+      "Milch, Schokoladeneis, Haselnussmus und Kakaopulver in den Krug geben.",
+      "Cremig mixen, bis das Haselnussmus glatt verteilt ist.",
+      "Haselnuesse grob hacken.",
+      "Shake in Glaeser fuellen und mit Haselnuesse toppen."
+    ]
+  },
+  {
+    "id": "de-shake-quark-berry-protein",
+    "title": "Quark Beeren Protein Shake (Deutsch)",
+    "country": "Deutschland",
+    "category": "Deutsch",
+    "type": "Shakes",
+    "time": 8,
+    "difficulty": "Einfach",
+    "servings": 2,
+    "description": "",
+    "ingredients": [
+      {
+        "name": "Magerquark",
+        "amount": 220,
+        "unit": "g"
+      },
+      {
+        "name": "gemischte Beeren",
+        "amount": 240,
+        "unit": "g"
+      },
+      {
+        "name": "Milch",
+        "amount": 240,
+        "unit": "ml"
+      },
+      {
+        "name": "Haferflocken zart",
+        "amount": 30,
+        "unit": "g"
+      },
+      {
+        "name": "Honig",
+        "amount": 20,
+        "unit": "g"
+      }
+    ],
+    "steps": [
+      "Beeren verlesen oder tiefgekuehlte Beeren kurz antauen lassen.",
+      "Magerquark, Milch, Beeren, Haferflocken und Honig in den Krug geben.",
+      "Mixen, bis Haferflocken und Beeren fein sind.",
+      "Direkt trinken oder 10 Minuten kalt stellen, damit der Shake saemiger wird."
+    ],
+    "tip": "Fuer eine dickere Textur 4-6 Eiswuerfel oder gefrorene Fruchtstuecke verwenden und den Krug nicht ueberfuellen.",
+    "nutrition": {
+      "kcal": "360 kcal",
+      "protein": "30 g",
+      "carbs": "49 g",
+      "fat": "5 g"
+    },
+    "tags": [
+      "Deutsch",
+      "Shakes",
+      "Vegetarisch"
+    ],
+    "image": "assets/images/recipes/shake-de-quark-berry-protein.png",
+    "fallbackImage": "assets/images/recipes/shake-de-quark-berry-protein.png",
+    "favorite": false,
+    "diet": {
+      "vegetarian": true,
+      "vegan": false,
+      "glutenFree": true,
+      "kids": true,
+      "mealPrep": false
+    },
+    "device": {
+      "name": "Ninja Detect Blender & Processor TB401EU Power Pro",
+      "program": "BlendSense / Smoothie",
+      "temperature": "kalt / ohne Erhitzen",
+      "time": "30-55 Sek.",
+      "accessory": "Detect Power Blender Krug, Klingenblock sicher verriegelt",
+      "steps": [
+        "Magerquark, gemischte Beeren und die weiteren Shake-Zutaten in den Detect Krug geben.",
+        "BlendSense / Smoothie starten und laufen lassen, bis die Textur cremig ist.",
+        "Bei sehr dickem Shake mit 30-50 ml Milch oder Pflanzendrink verduennen und kurz pulsen.",
+        "Toppings wie Kekse, Nuesse oder Schokostuecke erst nach dem Mixen ins Glas geben."
+      ]
+    },
+    "preparationSteps": [
+      "Beeren verlesen oder tiefgekuehlte Beeren kurz antauen lassen.",
+      "Magerquark, Milch, Beeren, Haferflocken und Honig in den Krug geben.",
+      "Mixen, bis Haferflocken und Beeren fein sind.",
+      "Direkt trinken oder 10 Minuten kalt stellen, damit der Shake saemiger wird."
+    ]
   }
 ]

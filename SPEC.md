@@ -18,11 +18,11 @@
 
 Jedes Rezept besitzt `id`, `title`, `country`, `category`, `type`, `time`, `difficulty`, `servings`, `description`, `ingredients`, `preparationSteps`, `steps`, `tip`, `nutrition`, `tags`, `image`, `fallbackImage`, `favorite`, `diet` und `device`.
 
-Die aktuelle Rezeptbasis konzentriert sich auf `Smoothies`, `Eiscreme`, `Saucen`, `Fast Food`, `Aufläufe` und `Gemüse` in den Kategorien `Italienisch`, `Spanisch`, `Amerikanisch` und `Deutsch`.
+Die aktuelle Rezeptbasis konzentriert sich auf `Smoothies`, `Eiscreme`, `Saucen`, `Fast Food`, `Aufläufe`, `Gemüse`, `Cocktails` und `Shakes` in den Kategorien `Italienisch`, `Spanisch`, `Amerikanisch` und `Deutsch`.
 
 Jedes Rezept besitzt ein eigenes lokales realistisches Bild unter `assets/images/recipes/`.
 
-Die Rezeptbasis umfasst 128 unterschiedliche Titel, Zutatenlisten und lokale Bilder. `Fast Food`, `Smoothies` und `Eiscreme` wurden gezielt erweitert, damit typische Airfryer-Gerichte sowie frische Erdbeer- und Wassermelonenvarianten abgedeckt sind.
+Die Rezeptbasis umfasst 160 unterschiedliche Titel, Zutatenlisten und lokale Bilder. `Fast Food`, `Smoothies`, `Eiscreme`, `Cocktails` und `Shakes` wurden gezielt erweitert, damit typische Airfryer-Gerichte, frische Erdbeer- und Wassermelonenvarianten sowie Drinks fuer den Ninja Detect Blender abgedeckt sind.
 
 `preparationSteps` beschreibt die eigentliche Rezeptzubereitung wie Waschen, Schneiden, Marinieren, Roesten, Schichten, Abschmecken oder Anrichten. `device.steps` beschreibt separat die Bedienung des Ninja Foodi FlexDrawer AF500EU oder Ninja Detect Blender TB401EU.
 

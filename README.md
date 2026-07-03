@@ -6,16 +6,17 @@ Eine statische Premium-Web-App fuer Ninja Foodi und Ninja Air Fryer Rezepte. Die
 
 ## Funktionen
 
-- 128 fokussierte Rezepte in `data/recipes.json`
+- 160 fokussierte Rezepte in `data/recipes.json`
 - Live-Suche und kombinierbare Filter
 - Kategorie-Chips
 - Favoriten mit LocalStorage
 - Rezeptgenaue Portionssteuerung mit live berechneten Zutaten
 - Einkaufsliste mit pro Rezept skalierten Mengen und Zusammenfuehrung gleicher Zutaten
 - Geraetespezifische Anleitungen fuer Ninja Foodi FlexDrawer AF500EU und Ninja Detect Blender TB401EU
-- 128 eindeutige lokale Rezeptbilder unter `assets/images/recipes/`
+- 160 eindeutige lokale Rezeptbilder unter `assets/images/recipes/`
 - Erweiterte Airfryer-Klassiker wie Pommes, Chicken Wings, Nuggets, Onion Rings und Kroketten
 - Erfrischende Smoothies sowie neue Erdbeer- und Wassermelonen-Eisvarianten
+- Cocktails mit alkoholischen und alkoholfreien Varianten sowie cremige Shakes
 - Jede Speisegruppe besitzt unterschiedliche Rezepte mit eigener Zutatenliste
 - Alle Rezepte besitzen echte Zubereitungsschritte plus separate Ninja-Geraeteanleitung
 - Clientseitiger PDF-Export der zusammengefuehrten Einkaufsliste

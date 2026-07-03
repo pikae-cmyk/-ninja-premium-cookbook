@@ -1,4 +1,4 @@
-const PREFIX = "ninja-premium-cookbook:v25:";
+const PREFIX = "ninja-premium-cookbook:v26:";
 
 export function readStorage(key, fallback) {
   try {
