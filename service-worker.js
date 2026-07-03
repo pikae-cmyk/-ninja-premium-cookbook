@@ -1,0 +1,191 @@
+const CACHE_NAME = "ninja-premium-cookbook-v25";
+const RECIPE_IMAGES = [
+  "assets/images/recipes/casserole-de-mushroom-chicken-noodle.png",
+  "assets/images/recipes/casserole-de-potato-leek.png",
+  "assets/images/recipes/casserole-de-sauerkraut-potato.png",
+  "assets/images/recipes/casserole-de-spaetzle-cheese.png",
+  "assets/images/recipes/casserole-es-chorizo-bean.png",
+  "assets/images/recipes/casserole-es-paella-rice.png",
+  "assets/images/recipes/casserole-es-patatas-bravas-gratin.png",
+  "assets/images/recipes/casserole-es-tortilla-potato.png",
+  "assets/images/recipes/casserole-it-eggplant-parmesan.png",
+  "assets/images/recipes/casserole-it-gnocchi-tomato.png",
+  "assets/images/recipes/casserole-it-pesto-chicken-rice.png",
+  "assets/images/recipes/casserole-it-spinach-ricotta.png",
+  "assets/images/recipes/casserole-us-bbq-chicken-sweet-potato.png",
+  "assets/images/recipes/casserole-us-broccoli-cheddar-rice.png",
+  "assets/images/recipes/casserole-us-buffalo-cauliflower.png",
+  "assets/images/recipes/casserole-us-mac-cheese.png",
+  "assets/images/recipes/fastfood-de-bratwurst-sliders.png",
+  "assets/images/recipes/fastfood-de-classic-fries.png",
+  "assets/images/recipes/fastfood-de-currywurst-bites.png",
+  "assets/images/recipes/fastfood-de-fish-nuggets.png",
+  "assets/images/recipes/fastfood-de-potato-croquettes.png",
+  "assets/images/recipes/fastfood-de-pretzel-nuggets.png",
+  "assets/images/recipes/fastfood-de-schnitzel-burger.png",
+  "assets/images/recipes/fastfood-es-calamari-bites.png",
+  "assets/images/recipes/fastfood-es-chorizo-sliders.png",
+  "assets/images/recipes/fastfood-es-falafel-bites.png",
+  "assets/images/recipes/fastfood-es-patatas-bravas-fries.png",
+  "assets/images/recipes/fastfood-es-patatas-bravas.png",
+  "assets/images/recipes/fastfood-es-tortilla-crunch.png",
+  "assets/images/recipes/fastfood-it-arancini-bites.png",
+  "assets/images/recipes/fastfood-it-caprese-chicken-burger.png",
+  "assets/images/recipes/fastfood-it-mozzarella-sticks.png",
+  "assets/images/recipes/fastfood-it-parmesan-chicken-nuggets.png",
+  "assets/images/recipes/fastfood-it-pizza-pockets.png",
+  "assets/images/recipes/fastfood-it-truffle-fries.png",
+  "assets/images/recipes/fastfood-us-bbq-cauliflower.png",
+  "assets/images/recipes/fastfood-us-bbq-wings.png",
+  "assets/images/recipes/fastfood-us-buffalo-wings.png",
+  "assets/images/recipes/fastfood-us-chicken-nuggets.png",
+  "assets/images/recipes/fastfood-us-chicken-tenders.png",
+  "assets/images/recipes/fastfood-us-crispy-chicken-burger.png",
+  "assets/images/recipes/fastfood-us-jalapeno-poppers.png",
+  "assets/images/recipes/fastfood-us-loaded-potato-wedges.png",
+  "assets/images/recipes/fastfood-us-loaded-wedges.png",
+  "assets/images/recipes/fastfood-us-mini-corn-dogs.png",
+  "assets/images/recipes/fastfood-us-onion-rings.png",
+  "assets/images/recipes/fastfood-us-smash-tacos.png",
+  "assets/images/recipes/fastfood-us-sweet-potato-fries.png",
+  "assets/images/recipes/icecream-de-apple-cinnamon.png",
+  "assets/images/recipes/icecream-de-black-forest.png",
+  "assets/images/recipes/icecream-de-hazelnut-chocolate.png",
+  "assets/images/recipes/icecream-de-quark-berry.png",
+  "assets/images/recipes/icecream-de-strawberry-cream.png",
+  "assets/images/recipes/icecream-es-churro-cinnamon.png",
+  "assets/images/recipes/icecream-es-crema-catalana.png",
+  "assets/images/recipes/icecream-es-orange-almond.png",
+  "assets/images/recipes/icecream-es-sangria-berry.png",
+  "assets/images/recipes/icecream-es-strawberry-watermelon-sorbet.png",
+  "assets/images/recipes/icecream-es-watermelon-granita.png",
+  "assets/images/recipes/icecream-es-watermelon-lime-sorbet.png",
+  "assets/images/recipes/icecream-it-lemon-ricotta.png",
+  "assets/images/recipes/icecream-it-pistachio.png",
+  "assets/images/recipes/icecream-it-stracciatella.png",
+  "assets/images/recipes/icecream-it-strawberry-basil-sorbet.png",
+  "assets/images/recipes/icecream-it-tiramisu.png",
+  "assets/images/recipes/icecream-it-watermelon-coconut.png",
+  "assets/images/recipes/icecream-us-blueberry-cheesecake.png",
+  "assets/images/recipes/icecream-us-cookie-dough.png",
+  "assets/images/recipes/icecream-us-maple-pecan.png",
+  "assets/images/recipes/icecream-us-peanut-butter-chocolate.png",
+  "assets/images/recipes/icecream-us-strawberry-cheesecake.png",
+  "assets/images/recipes/icecream-us-strawberry-yogurt-pops.png",
+  "assets/images/recipes/sauce-de-apple-horseradish.png",
+  "assets/images/recipes/sauce-de-herb-quark.png",
+  "assets/images/recipes/sauce-de-mushroom-cream.png",
+  "assets/images/recipes/sauce-de-mustard-honey.png",
+  "assets/images/recipes/sauce-es-ajo-blanco.png",
+  "assets/images/recipes/sauce-es-mojo-verde.png",
+  "assets/images/recipes/sauce-es-paprika-aioli.png",
+  "assets/images/recipes/sauce-es-romesco.png",
+  "assets/images/recipes/sauce-it-arrabbiata.png",
+  "assets/images/recipes/sauce-it-lemon-ricotta.png",
+  "assets/images/recipes/sauce-it-pistachio-pesto.png",
+  "assets/images/recipes/sauce-it-tomato-basil.png",
+  "assets/images/recipes/sauce-us-bbq.png",
+  "assets/images/recipes/sauce-us-buffalo.png",
+  "assets/images/recipes/sauce-us-burger-relish.png",
+  "assets/images/recipes/sauce-us-ranch-yogurt.png",
+  "assets/images/recipes/smoothie-de-apple-quark.png",
+  "assets/images/recipes/smoothie-de-berry-buttermilk.png",
+  "assets/images/recipes/smoothie-de-cherry-kefir.png",
+  "assets/images/recipes/smoothie-de-cucumber-buttermilk.png",
+  "assets/images/recipes/smoothie-de-cucumber-lime-mint.png",
+  "assets/images/recipes/smoothie-de-kiwi-apple.png",
+  "assets/images/recipes/smoothie-de-lemon-ginger-apple.png",
+  "assets/images/recipes/smoothie-de-plum-cinnamon.png",
+  "assets/images/recipes/smoothie-es-almond-date.png",
+  "assets/images/recipes/smoothie-es-berry-grape.png",
+  "assets/images/recipes/smoothie-es-mango-saffron.png",
+  "assets/images/recipes/smoothie-es-peach-yogurt.png",
+  "assets/images/recipes/smoothie-es-pineapple-coconut-lime.png",
+  "assets/images/recipes/smoothie-it-blood-orange-carrot.png",
+  "assets/images/recipes/smoothie-it-espresso-banana.png",
+  "assets/images/recipes/smoothie-it-pear-spinach.png",
+  "assets/images/recipes/smoothie-it-strawberry-basil.png",
+  "assets/images/recipes/smoothie-us-apple-cinnamon.png",
+  "assets/images/recipes/smoothie-us-blueberry-oat.png",
+  "assets/images/recipes/smoothie-us-cocoa-cherry.png",
+  "assets/images/recipes/smoothie-us-peach-iced-tea.png",
+  "assets/images/recipes/smoothie-us-peanut-butter-banana.png",
+  "assets/images/recipes/smoothie-us-strawberry-watermelon.png",
+  "assets/images/recipes/smoothie-us-watermelon-mint.png",
+  "assets/images/recipes/vegetable-de-brussels-sprouts.png",
+  "assets/images/recipes/vegetable-de-cabbage-potato.png",
+  "assets/images/recipes/vegetable-de-herb-carrots.png",
+  "assets/images/recipes/vegetable-de-mushroom-onion.png",
+  "assets/images/recipes/vegetable-es-bravas-vegetables.png",
+  "assets/images/recipes/vegetable-es-garlic-green-beans.png",
+  "assets/images/recipes/vegetable-es-paprika-cauliflower.png",
+  "assets/images/recipes/vegetable-es-romesco-peppers.png",
+  "assets/images/recipes/vegetable-it-balsamic-zucchini.png",
+  "assets/images/recipes/vegetable-it-garlic-eggplant.png",
+  "assets/images/recipes/vegetable-it-lemon-fennel-carrots.png",
+  "assets/images/recipes/vegetable-it-parmesan-broccoli.png",
+  "assets/images/recipes/vegetable-us-buffalo-cauliflower.png",
+  "assets/images/recipes/vegetable-us-cheddar-broccoli.png",
+  "assets/images/recipes/vegetable-us-corn-ribs.png",
+  "assets/images/recipes/vegetable-us-ranch-sweet-potato.png"
+];
+const CORE_ASSETS = [
+  "./",
+  "index.html",
+  "style.css",
+  "app.js",
+  "manifest.webmanifest",
+  "data/recipes.json",
+  "assets/images/premium-food-realistic.png",
+  "assets/images/hero-premium-kitchen.png",
+  "assets/images/hero-ninja-cookbook.svg",
+  "assets/images/recipe-placeholder.svg",
+  "assets/logo/logo.svg",
+  "assets/logo/favicon.svg",
+  ...RECIPE_IMAGES,
+  "modules/favorites.js",
+  "modules/filters.js",
+  "modules/pdf.js",
+  "modules/recipes.js",
+  "modules/shopping.js",
+  "modules/storage.js",
+  "modules/utils.js"
+];
+
+self.addEventListener("install", (event) => {
+  event.waitUntil(caches.open(CACHE_NAME).then((cache) => cache.addAll(CORE_ASSETS)));
+});
+
+self.addEventListener("activate", (event) => {
+  event.waitUntil(
+    caches.keys().then((keys) =>
+      Promise.all(keys.filter((key) => key !== CACHE_NAME).map((key) => caches.delete(key))),
+    ),
+  );
+});
+
+self.addEventListener("fetch", (event) => {
+  if (event.request.method !== "GET") return;
+  if (event.request.url.includes("/data/recipes.json")) {
+    event.respondWith(
+      fetch(event.request)
+        .then((response) => {
+          const copy = response.clone();
+          caches.open(CACHE_NAME).then((cache) => cache.put(event.request, copy));
+          return response;
+        })
+        .catch(() => caches.match(event.request)),
+    );
+    return;
+  }
+
+  event.respondWith(
+    caches.match(event.request).then((cached) =>
+      cached || fetch(event.request).then((response) => {
+        const copy = response.clone();
+        caches.open(CACHE_NAME).then((cache) => cache.put(event.request, copy));
+        return response;
+      }),
+    ),
+  );
+});
