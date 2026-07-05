@@ -1,6 +1,21 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="Ninja Premium Cookbook">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="Ninja Premium Cookbook Logo">
+  <defs>
+    <linearGradient id="gold" x1="29" y1="24" x2="99" y2="103" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#F3D08A"/>
+      <stop offset="0.46" stop-color="#D7A14A"/>
+      <stop offset="1" stop-color="#A96F22"/>
+    </linearGradient>
+    <linearGradient id="steel" x1="42" y1="48" x2="89" y2="88" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#FFFFFF"/>
+      <stop offset="1" stop-color="#E9EDF4"/>
+    </linearGradient>
+  </defs>
   <rect width="128" height="128" rx="30" fill="#111827"/>
-  <path d="M30 78c10 17 25 26 43 23 17-3 28-16 31-33-18 9-34 9-48 1-9-5-16-14-20-27-9 11-11 23-6 36Z" fill="#D7A14A"/>
-  <path d="M43 35c15-10 32-10 48 1-7 9-15 14-25 14-9 0-17-5-23-15Z" fill="#fff"/>
-  <circle cx="79" cy="75" r="7" fill="#fff"/>
+  <path d="M34 33c0-5 4-9 9-9h42c5 0 9 4 9 9v10H34V33Z" fill="url(#gold)"/>
+  <path d="M30 45h68c6 0 11 5 11 11v20c0 19-15 34-34 34H53c-19 0-34-15-34-34V56c0-6 5-11 11-11Z" fill="url(#gold)"/>
+  <path d="M32 58h64v16c0 13-10 23-23 23H55c-13 0-23-10-23-23V58Z" fill="#172033"/>
+  <path d="M42 63h44c4 0 7 3 7 7v3c0 10-8 18-18 18H53c-10 0-18-8-18-18v-3c0-4 3-7 7-7Z" fill="url(#steel)"/>
+  <path d="M51 73c7-5 18-5 26 0" fill="none" stroke="#D7A14A" stroke-width="5" stroke-linecap="round"/>
+  <path d="M48 25c-3-6-1-11 4-15M64 23c-4-5-4-11 0-17M80 25c5-5 6-10 3-16" fill="none" stroke="#FFFFFF" stroke-width="5" stroke-linecap="round"/>
+  <path d="M92 23l2 6 6 2-6 2-2 6-2-6-6-2 6-2 2-6Z" fill="#FFFFFF"/>
 </svg>

@@ -1,5 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
-  <rect width="64" height="64" rx="16" fill="#111827"/>
-  <path d="M15 39c5 9 13 14 23 12 9-2 15-8 17-17-10 5-18 5-25 1-5-3-8-8-10-14-5 6-7 12-5 18Z" fill="#D7A14A"/>
-  <circle cx="40" cy="38" r="4" fill="#fff"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Ninja Premium Cookbook Icon">
+  <rect width="64" height="64" rx="15" fill="#111827"/>
+  <path d="M17 23h30c3 0 5 2 5 5v9c0 10-8 18-18 18h-4c-10 0-18-8-18-18v-9c0-3 2-5 5-5Z" fill="#D7A14A"/>
+  <path d="M18 31h28v6c0 6-5 11-11 11h-6c-6 0-11-5-11-11v-6Z" fill="#F7F4EE"/>
+  <path d="M25 38c4-3 10-3 14 0" fill="none" stroke="#D7A14A" stroke-width="3.5" stroke-linecap="round"/>
+  <path d="M24 18c-2-3-1-6 1-8M32 17c-2-3-2-6 0-9M40 18c2-3 2-6 0-8" fill="none" stroke="#FFFFFF" stroke-width="3" stroke-linecap="round"/>
 </svg>
