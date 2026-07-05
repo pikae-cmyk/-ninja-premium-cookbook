@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="Ninja Premium Cookbook App Icon">
+  <defs>
+    <linearGradient id="gold" x1="112" y1="84" x2="400" y2="426" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#F8D996"/>
+      <stop offset="0.45" stop-color="#D7A14A"/>
+      <stop offset="1" stop-color="#9C641E"/>
+    </linearGradient>
+    <linearGradient id="cream" x1="146" y1="236" x2="362" y2="380" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#FFFFFF"/>
+      <stop offset="1" stop-color="#EEE8DC"/>
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="118" fill="#111827"/>
+  <path d="M136 133c0-20 16-36 36-36h168c20 0 36 16 36 36v42H136v-42Z" fill="url(#gold)"/>
+  <path d="M114 183h284c24 0 43 19 43 43v84c0 75-61 136-136 136h-98c-75 0-136-61-136-136v-84c0-24 19-43 43-43Z" fill="url(#gold)"/>
+  <path d="M125 240h262v64c0 53-43 96-96 96h-70c-53 0-96-43-96-96v-64Z" fill="#172033"/>
+  <path d="M170 259h172c15 0 27 12 27 27v14c0 40-32 72-72 72h-82c-40 0-72-32-72-72v-14c0-15 12-27 27-27Z" fill="url(#cream)"/>
+  <path d="M207 303c29-20 70-20 102 0" fill="none" stroke="#D7A14A" stroke-width="22" stroke-linecap="round"/>
+  <path d="M194 103c-12-22-7-42 11-58M256 96c-16-21-16-45 0-67M318 103c19-19 22-39 11-61" fill="none" stroke="#FFFFFF" stroke-width="20" stroke-linecap="round"/>
+  <path d="M371 91l10 27 27 10-27 10-10 27-10-27-27-10 27-10 10-27Z" fill="#FFFFFF"/>
+</svg>
