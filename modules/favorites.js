@@ -1,4 +1,4 @@
-import { readStorage, writeStorage } from "./storage.js?v=26";
+import { readStorage, writeStorage } from "./storage.js?v=28";
 
 const FAVORITES_KEY = "favorites";
 

@@ -1,5 +1,5 @@
 export async function loadRecipes() {
-  const response = await fetch("data/recipes.json?v=26", { cache: "no-cache" });
+  const response = await fetch("data/recipes.json?v=28", { cache: "no-cache" });
   if (!response.ok) {
     throw new Error(`Rezepte konnten nicht geladen werden (${response.status})`);
   }

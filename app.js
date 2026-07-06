@@ -1,9 +1,9 @@
-import { createFavoritesStore } from "./modules/favorites.js?v=26";
-import { filterRecipes, getFilterOptions, readFilters } from "./modules/filters.js?v=26";
-import { downloadShoppingPdf } from "./modules/pdf.js?v=26";
-import { loadRecipes } from "./modules/recipes.js?v=26";
-import { createShoppingStore } from "./modules/shopping.js?v=26";
-import { $, $$, createElement } from "./modules/utils.js?v=26";
+import { createFavoritesStore } from "./modules/favorites.js?v=28";
+import { filterRecipes, getFilterOptions, readFilters } from "./modules/filters.js?v=28";
+import { downloadShoppingPdf } from "./modules/pdf.js?v=28";
+import { loadRecipes } from "./modules/recipes.js?v=28";
+import { createShoppingStore } from "./modules/shopping.js?v=28";
+import { $, $$, createElement } from "./modules/utils.js?v=28";
 
 const selectors = {
   form: "[data-filter-form]",

@@ -1,5 +1,5 @@
-import { readStorage, writeStorage } from "./storage.js?v=26";
-import { formatAmount, normalizeText } from "./utils.js?v=26";
+import { readStorage, writeStorage } from "./storage.js?v=28";
+import { formatAmount, normalizeText } from "./utils.js?v=28";
 
 const SHOPPING_KEY = "shopping";
 const CHECKED_KEY = "shopping-checked";

@@ -1,4 +1,4 @@
-const CACHE_NAME = "ninja-premium-cookbook-v27";
+const CACHE_NAME = "ninja-premium-cookbook-v28";
 const RECIPE_IMAGES = [
   "assets/images/recipes/casserole-de-mushroom-chicken-noodle.png",
   "assets/images/recipes/casserole-de-potato-leek.png",
@@ -166,6 +166,7 @@ const CORE_ASSETS = [
   "index.html",
   "style.css",
   "app.js",
+  "favicon.ico",
   "manifest.webmanifest",
   "data/recipes.json",
   "assets/images/premium-food-realistic.png",
@@ -174,6 +175,8 @@ const CORE_ASSETS = [
   "assets/images/recipe-placeholder.svg",
   "assets/logo/logo.svg",
   "assets/logo/favicon.svg",
+  "assets/icons/favicon-16.png",
+  "assets/icons/favicon-32.png",
   "assets/icons/apple-touch-icon.png",
   "assets/icons/icon-192.png",
   "assets/icons/icon-192.svg",
